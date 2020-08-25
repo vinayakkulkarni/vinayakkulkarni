@@ -15,3 +15,6 @@
 
 ![vinayakkulkarni's github stats](https://github-readme-stats.vercel.app/api?username=vinayakkulkarni&show_icons=true)
 
+<!-- https://github.com/Gerhut/Gerhut -->
+<!-- pls deploy your own service using the repo above -->
+![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/vinayakkulkarni-github-readme)
