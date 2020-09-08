@@ -12,8 +12,15 @@
 - 📫 Reach me: [twitter.com/_vinayak_k](https://twitter.com/_vinayak_k)
 - 😄 Pronouns: He/Him
 - ⚡️ Fun fact: I'm a die hard Gooner #COYG
+---
 
 ![vinayakkulkarni's github stats](https://github-readme-stats.vercel.app/api?username=vinayakkulkarni&show_icons=true)
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vinayakkulkarni&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 <!-- https://github.com/Gerhut/Gerhut -->
 <!-- pls deploy your own service using the repo above -->
