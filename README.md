@@ -16,26 +16,6 @@
 
 ---
 
-
-<div>
-  <h4>⚡️ Current Streak</h4>
-  <a href="https://github.com/vinayakkulkarni">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakkulkarni&theme=dark"/>
-  </a>
-</div>
-
-
----
-
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vinayakkulkarni&column=7"/>
-  </a>
-</div>
-
----
-
 <div>
   <img src="./metrics.svg" />  
 </div>
