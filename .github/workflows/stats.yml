@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - name: 🦑 Personal metrics (left)
+      - name: Metrics
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -30,10 +30,16 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
           plugin_languages_limit: 2
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: mastered
-          plugin_notable: yes
-          plugin_notable_repositories: yes
-          config_order: base.header, isocalendar, languages, notable, topics
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_reactions: yes
+          plugin_reactions_limit: 200
+          plugin_reactions_limit_issues: 100
+          plugin_reactions_days: 14
+          plugin_reactions_details: count, percentage
+          plugin_reactions_ignored: bot
+          config_order: base.header, isocalendar, languages, activity, reactions
+          
 
