@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="795" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="992" class="">
     <defs>
         <style/>
     </defs>
@@ -1510,16 +1510,27 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 0 edited files from 0 commits over last 1 day
+            estimation from 27 edited files from 82 commits over last 1 day
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#d1d5da"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      JavaScript
+                    </div>
+                            <small>
+                                <div>102 lines</div>
+                                <div>100%</div>
+                            </small>
+                        </div>
                     </section>
                     <section>
                     </section>
@@ -1532,6 +1543,80 @@
     </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">geospoc/create-geoqi-widget</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/update-template</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#ccfc922</span>
+                                        <span class="message">feat: add `tsconfig.json`</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 10 commits in <span class="repo">geospoc/create-geoqi-widget</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/update-template</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#81d53d0</span>
+                                        <span class="message">feat: add `.nvmrc`</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1b4e32a</span>
+                                        <span class="message">chore: update lockfile &amp; add required dependencies</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#153c422</span>
+                                        <span class="message">feat: add `.npmrc` for registry details</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0841ad6</span>
+                                        <span class="message">chore: update lint-stage command to be run</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#572c896</span>
+                                        <span class="message">chore: update eslint config</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ba34592</span>
+                                        <span class="message">style: fix lint errors</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a5987a8</span>
+                                        <span class="message">chore: upgrade husky to v7</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0a895f6</span>
+                                        <span class="message">test: update snapshots</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ececfbe</span>
+                                        <span class="message">refactor(template): upgrade husky config(s) to v7</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#49ce313</span>
+                                        <span class="message">build(template): update CI workflows in template</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1599,64 +1684,13 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm.061 3.073a4 4 0 10-5.123 0 6.004 6.004 0 00-3.431 5.142.75.75 0 001.498.07 4.5 4.5 0 018.99 0 .75.75 0 101.498-.07 6.005 6.005 0 00-3.432-5.142z"/>
-                                    </svg>
-                                    <div class="content">
-                      Added prashis as collaborator in <span class="repo">geospoc/ifc-agrigeo-frontend</span>
-                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 2 commits in <span class="repo">vinayakkulkarni/v-skeletor</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#becc3cb</span>
-                                        <span class="message">Merge pull request #217 from vinayakkulkarni/dependabot/npm_and_yarn/rollup/plugin-node-resolve-13.1.1
-
-chore(deps-dev): bump @rollup/plugin-node-resolve from 13.0.6 to 13.1.1</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#7937544</span>
-                                        <span class="message">chore(deps-dev): bump @rollup/plugin-node-resolve from 13.0.6 to 13.1.1
-
-Bumps [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/HEAD/packages/node-resolve) from 13.0.6 to 13.1.1.
-- [Release notes](https://github.com/rollup/plugins/releases)
-- [Changelog](https://github.com/rollup/plugins/blob/master/packages/node-resolve/CHANGELOG.md)
-- [Commits](https://github.com/rollup/plugins/commits/node-resolve-v13.1.1/packages/node-resolve)
-
----
-updated-dependencies:
-- dependency-name: "@rollup/plugin-node-resolve"
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <section>
                 <h2 class="field">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v5.5a.25.25 0 01-.25.25h-3.5a.75.75 0 00-.53.22L3.5 11.44V9.25a.75.75 0 00-.75-.75h-1a.25.25 0 01-.25-.25v-5.5zM1.75 1A1.75 1.75 0 000 2.75v5.5C0 9.216.784 10 1.75 10H2v1.543a1.457 1.457 0 002.487 1.03L7.061 10h3.189A1.75 1.75 0 0012 8.25v-5.5A1.75 1.75 0 0010.25 1h-8.5zM14.5 4.75a.25.25 0 00-.25-.25h-.5a.75.75 0 110-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0114.25 12H14v1.543a1.457 1.457 0 01-2.487 1.03L9.22 12.28a.75.75 0 111.06-1.06l2.22 2.22v-2.19a.75.75 0 01.75-.75h1a.25.25 0 00.25-.25v-5.5z"/></svg>
-      Overall users reactions from last 309 comments
+      Overall users reactions from last 209 comments
     </h2>
                 <div class="row">
                     <section>
@@ -1665,17 +1699,17 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="10.612903225806452 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="6.760273972602739 329"/>
                                         <text x="60" y="60" dominant-baseline="central">❤️</text>
                                     </svg>
                                     <span class="title nowrap">
                       
-                        5
+                        3
                       
                       
                         <small>
                           
-                            (3<small>%</small>)
+                            (2<small>%</small>)
                           
                         </small>
                       
@@ -1684,17 +1718,17 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="314.14193548387095 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="317.73287671232873 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👍</text>
                                     </svg>
                                     <span class="title nowrap">
                       
-                        148
+                        141
                       
                       
                         <small>
                           
-                            (95<small>%</small>)
+                            (97<small>%</small>)
                           
                         </small>
                       
@@ -1793,7 +1827,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.245161290322581 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.506849315068493 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🎉</text>
                                     </svg>
                                     <span class="title nowrap">
