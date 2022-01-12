@@ -1,4 +1,5 @@
-# Hello 🙏🏽
+# Hello 🙏🏽 
+
 
 #### I'm a Frontend developer from India 🇮🇳
 
@@ -25,4 +26,4 @@
 
 <!-- https://github.com/Gerhut/Gerhut -->
 <!-- pls deploy your own service using the repo above -->
-![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/vinayakkulkarni-github-readme)
+![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/vinayakkulkarni-github-readme) [![committers.top badge](https://user-badge.committers.top/india_private/vinayakkulkarni.svg)](https://user-badge.committers.top/india_private/vinayakkulkarni)
