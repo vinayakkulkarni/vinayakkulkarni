@@ -1156,8 +1156,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="344.7661305232021" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="344.7661305232021" y="0" width="115.23386947679793" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="317.3031135531136" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="317.3031135531136" y="0" width="142.69688644688645" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1169,8 +1169,8 @@
                                 Vue
                             </div>
                             <small>
-                                <div>382 lines</div>
-                                <div>74.95%</div>
+                                <div>284 lines</div>
+                                <div>68.98%</div>
                             </small>
                         </div>
                     </section>
@@ -1184,7 +1184,7 @@
                             </div>
                             <small>
                                 <div>115 lines</div>
-                                <div>25.05%</div>
+                                <div>31.02%</div>
                             </small>
                         </div>
                     </section>
