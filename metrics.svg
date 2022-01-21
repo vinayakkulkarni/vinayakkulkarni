@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1037" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="918" class="">
     <defs>
         <style/>
     </defs>
@@ -1134,28 +1134,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 13 edited files from 82 commits over last 2 days</small>
+                <small>estimation from 13 edited files from 82 commits over last 1 day</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#d1d5da"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                TypeScript
-                            </div>
-                            <small>
-                                <div>1 line</div>
-                                <div>100%</div>
-                            </small>
-                        </div>
                     </section>
                     <section>
                     </section>
@@ -1174,36 +1161,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">geospoc/v-lumino</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dc3e78a</div>
-                                        <div class="message">Merge pull request #240 from geospoc/dependabot/npm_and_yarn/babel/preset-env-7.16.11</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66b391e</div>
-                                        <div class="message">chore(deps-dev): bump @babel/preset-env from 7.16.8 to 7.16.11
-
-Bumps [@babel/preset-env](https://github.com/babel/babel/tree/HEAD/packages/babel-preset-env) from 7.16.8 to 7.16.11.
-- [Release notes](https://github.com/babel/babel/releases)
-- [Changelog](https://github.com/babel/babel/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/babel/babel/commits/v7.16.11/packages/babel-preset-env)
-
----
-updated-dependencies:
-- dependency-name: "@babel/preset-env"
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/npm_and_yarn/lint-staged-12.2.2</span>
+                                        in
+                                        <span class="repo">geospoc/gqi-types</span>
                                     </div>
                                 </div>
                             </section>
@@ -1216,17 +1181,17 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">geospoc/v-lumino</span>
+                                        <span class="repo">geospoc/gqi-types</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e1b3cb9</div>
-                                        <div class="message">Merge pull request #241 from geospoc/dependabot/npm_and_yarn/lint-staged-12.2.2</div>
+                                        <div class="sha">#a3ad72e</div>
+                                        <div class="message">Merge pull request #269 from geospoc/dependabot/npm_and_yarn/lint-staged-12.2.2</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4a3826d</div>
+                                        <div class="sha">#585b4b1</div>
                                         <div class="message">chore(deps-dev): bump lint-staged from 12.1.7 to 12.2.2
 
 Bumps [lint-staged](https://github.com/okonet/lint-staged) from 12.1.7 to 12.2.2.
@@ -1249,21 +1214,37 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/npm_and_yarn/commitlint/cli-16.1.0</span>
+                                        in
+                                        <span class="repo">geospoc/gqi-types</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/janak</span>
+                                        <span class="repo">geospoc/gqi-types</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4c83a9e</div>
-                                        <div class="message">Merge pull request #306 from vinayakkulkarni/dependabot/npm_and_yarn/commitlint/cli-16.1.0</div>
+                                        <div class="sha">#d5b6a8d</div>
+                                        <div class="message">Merge pull request #270 from geospoc/dependabot/npm_and_yarn/commitlint/cli-16.1.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#bac30ad</div>
+                                        <div class="sha">#02a1bad</div>
                                         <div class="message">chore(deps-dev): bump @commitlint/cli from 16.0.2 to 16.1.0
 
 Bumps [@commitlint/cli](https://github.com/conventional-changelog/commitlint/tree/HEAD/@commitlint/cli) from 16.0.2 to 16.1.0.
@@ -1290,54 +1271,15 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/janak</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e562683</div>
-                                        <div class="message">Merge pull request #307 from vinayakkulkarni/dependabot/npm_and_yarn/lint-staged-12.2.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3838d7f</div>
-                                        <div class="message">chore(deps-dev): bump lint-staged from 12.1.7 to 12.2.2
-
-Bumps [lint-staged](https://github.com/okonet/lint-staged) from 12.1.7 to 12.2.2.
-- [Release notes](https://github.com/okonet/lint-staged/releases)
-- [Commits](https://github.com/okonet/lint-staged/compare/v12.1.7...v12.2.2)
-
----
-updated-dependencies:
-- dependency-name: lint-staged
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">vinayakkulkarni/v-clappr</span>
+                                        <span class="repo">geospoc/gqi-types</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4d72815</div>
-                                        <div class="message">chore(deps-dev): bump rollup from 2.63.0 to 2.64.0 (#591)
-
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                        <div class="sha">#d97319b</div>
+                                        <div class="message">chore: minor housekeeping</div>
                                     </div>
                                 </div>
                             </section>
