@@ -57,7 +57,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 193 repositories
+                            Contributed to  repositories
                         </div>
                     </section>
                 </div>
@@ -1097,7 +1097,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 194 edited files from 6668 commits</small>
+                <small>estimation from 194 edited files from 6670 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1139,7 +1139,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 108 edited files from 79 commits over last 2 days</small>
+                <small>estimation from 103 edited files from 79 commits over last 2 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1188,6 +1188,79 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">vinayakkulkarni/vue-identify-network</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c590032</div>
+                                        <div class="message">Merge pull request #686 from vinayakkulkarni/dependabot/npm_and_yarn/nanoid-3.2.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#15b3363</div>
+                                        <div class="message">fix(deps): bump nanoid from 3.1.25 to 3.2.0
+
+Bumps [nanoid](https://github.com/ai/nanoid) from 3.1.25 to 3.2.0.
+- [Release notes](https://github.com/ai/nanoid/releases)
+- [Changelog](https://github.com/ai/nanoid/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/ai/nanoid/compare/3.1.25...3.2.0)
+
+---
+updated-dependencies:
+- dependency-name: nanoid
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">vinayakkulkarni/vue-identify-network</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ae07b8f</div>
+                                        <div class="message">Merge pull request #687 from vinayakkulkarni/dependabot/npm_and_yarn/node-fetch-2.6.7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5986e02</div>
+                                        <div class="message">fix(deps): bump node-fetch from 2.6.1 to 2.6.7
+
+Bumps [node-fetch](https://github.com/node-fetch/node-fetch) from 2.6.1 to 2.6.7.
+- [Release notes](https://github.com/node-fetch/node-fetch/releases)
+- [Commits](https://github.com/node-fetch/node-fetch/compare/v2.6.1...v2.6.7)
+
+---
+updated-dependencies:
+- dependency-name: node-fetch
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1279,78 +1352,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                     <div class="commit">
                                         <div class="sha">#31a7ece</div>
-                                        <div class="message">fix(deps): bump follow-redirects from 1.14.7 to 1.14.8
-
-Bumps [follow-redirects](https://github.com/follow-redirects/follow-redirects) from 1.14.7 to 1.14.8.
-- [Release notes](https://github.com/follow-redirects/follow-redirects/releases)
-- [Commits](https://github.com/follow-redirects/follow-redirects/compare/v1.14.7...v1.14.8)
-
----
-updated-dependencies:
-- dependency-name: follow-redirects
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/mediahub</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5d26453</div>
-                                        <div class="message">Merge pull request #515 from vinayakkulkarni/dependabot/npm_and_yarn/follow-redirects-1.14.8</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c6d6200</div>
-                                        <div class="message">fix(deps): bump follow-redirects from 1.14.7 to 1.14.8
-
-Bumps [follow-redirects](https://github.com/follow-redirects/follow-redirects) from 1.14.7 to 1.14.8.
-- [Release notes](https://github.com/follow-redirects/follow-redirects/releases)
-- [Commits](https://github.com/follow-redirects/follow-redirects/compare/v1.14.7...v1.14.8)
-
----
-updated-dependencies:
-- dependency-name: follow-redirects
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/v-rating</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2d0ecf5</div>
-                                        <div class="message">Merge pull request #577 from vinayakkulkarni/dependabot/npm_and_yarn/follow-redirects-1.14.8</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c369d6e</div>
                                         <div class="message">fix(deps): bump follow-redirects from 1.14.7 to 1.14.8
 
 Bumps [follow-redirects](https://github.com/follow-redirects/follow-redirects) from 1.14.7 to 1.14.8.
