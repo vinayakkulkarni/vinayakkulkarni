@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1054" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1587" class="">
     <defs>
         <style/>
     </defs>
@@ -36,20 +36,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -83,13 +83,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 181 days
+                            Current streak 182 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
-                            Best streak 181 days
+                            Best streak 182 days
                         </div>
                         <h3 class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~94.52
+                            Average per day at ~94.57
                         </div>
                     </section>
                 </div>
@@ -1083,6 +1083,11 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.983050847457627 0,2.983050847457627 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.983050847457627 1.7,3.983050847457627 z"/>
                             </g>
+                            <g transform="translate(-10.2, 10.271186440677965)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7288135593220337 0,2.7288135593220337 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7288135593220337 1.7,3.7288135593220337 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1139,7 +1144,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 103 edited files from 79 commits over last 2 days</small>
+                <small>estimation from 105 edited files from 84 commits over last 2 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1195,29 +1200,462 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/vue-identify-network</span>
+                                        Pushed 45 commits in
+                                        <span class="repo">geospoc/ifc-agrigeo-frontend</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c590032</div>
-                                        <div class="message">Merge pull request #686 from vinayakkulkarni/dependabot/npm_and_yarn/nanoid-3.2.0</div>
+                                        <div class="sha">#c68bbe7</div>
+                                        <div class="message">Merge pull request #856 from geospoc/dependabot/npm_and_yarn/typescript-eslint/parser-5.11.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#15b3363</div>
-                                        <div class="message">fix(deps): bump nanoid from 3.1.25 to 3.2.0
+                                        <div class="sha">#da69fa3</div>
+                                        <div class="message">Merge pull request #869 from geospoc/dependabot/npm_and_yarn/sentry/integrations-6.17.7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a17607</div>
+                                        <div class="message">fix(deps): bump @sentry/integrations from 6.17.3 to 6.17.7
 
-Bumps [nanoid](https://github.com/ai/nanoid) from 3.1.25 to 3.2.0.
-- [Release notes](https://github.com/ai/nanoid/releases)
-- [Changelog](https://github.com/ai/nanoid/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ai/nanoid/compare/3.1.25...3.2.0)
+Bumps [@sentry/integrations](https://github.com/getsentry/sentry-javascript) from 6.17.3 to 6.17.7.
+- [Release notes](https://github.com/getsentry/sentry-javascript/releases)
+- [Changelog](https://github.com/getsentry/sentry-javascript/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/getsentry/sentry-javascript/compare/6.17.3...6.17.7)
 
 ---
 updated-dependencies:
-- dependency-name: nanoid
-  dependency-type: indirect
+- dependency-name: "@sentry/integrations"
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fbeb93b</div>
+                                        <div class="message">Merge pull request #868 from geospoc/dependabot/npm_and_yarn/vue/cli-plugin-pwa-5.0.0-rc.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c289def</div>
+                                        <div class="message">chore(deps-dev): bump @typescript-eslint/parser from 5.10.2 to 5.11.0
+
+Bumps [@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser) from 5.10.2 to 5.11.0.
+- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
+- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md)
+- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.11.0/packages/parser)
+
+---
+updated-dependencies:
+- dependency-name: "@typescript-eslint/parser"
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#082d2ee</div>
+                                        <div class="message">chore(deps-dev): bump @vue/cli-plugin-pwa from 5.0.0-rc.2 to 5.0.0-rc.3
+
+Bumps [@vue/cli-plugin-pwa](https://github.com/vuejs/vue-cli/tree/HEAD/packages/@vue/cli-plugin-pwa) from 5.0.0-rc.2 to 5.0.0-rc.3.
+- [Release notes](https://github.com/vuejs/vue-cli/releases)
+- [Changelog](https://github.com/vuejs/vue-cli/blob/dev/CHANGELOG.md)
+- [Commits](https://github.com/vuejs/vue-cli/commits/v5.0.0-rc.3/packages/@vue/cli-plugin-pwa)
+
+---
+updated-dependencies:
+- dependency-name: "@vue/cli-plugin-pwa"
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#15a9373</div>
+                                        <div class="message">Merge pull request #855 from geospoc/dependabot/npm_and_yarn/eslint-plugin-vue-8.4.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#799a1a6</div>
+                                        <div class="message">Merge pull request #857 from geospoc/dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.11.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d59bb6</div>
+                                        <div class="message">Merge pull request #858 from geospoc/dependabot/npm_and_yarn/vue/composition-api-1.4.6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f93925b</div>
+                                        <div class="message">Merge pull request #863 from geospoc/dependabot/npm_and_yarn/sentry/integrations-6.17.6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65cd9e4</div>
+                                        <div class="message">Merge pull request #864 from geospoc/dependabot/npm_and_yarn/vue/cli-plugin-router-5.0.0-rc.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e49c61</div>
+                                        <div class="message">chore(deps-dev): bump @vue/cli-plugin-router
+
+Bumps [@vue/cli-plugin-router](https://github.com/vuejs/vue-cli/tree/HEAD/packages/@vue/cli-plugin-router) from 5.0.0-rc.2 to 5.0.0-rc.3.
+- [Release notes](https://github.com/vuejs/vue-cli/releases)
+- [Changelog](https://github.com/vuejs/vue-cli/blob/dev/CHANGELOG.md)
+- [Commits](https://github.com/vuejs/vue-cli/commits/v5.0.0-rc.3/packages/@vue/cli-plugin-router)
+
+---
+updated-dependencies:
+- dependency-name: "@vue/cli-plugin-router"
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d5c100b</div>
+                                        <div class="message">Merge pull request #865 from geospoc/dependabot/npm_and_yarn/vue/cli-plugin-babel-5.0.0-rc.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77dac0f</div>
+                                        <div class="message">chore(deps-dev): bump @vue/composition-api from 1.4.5 to 1.4.6
+
+Bumps [@vue/composition-api](https://github.com/vuejs/composition-api) from 1.4.5 to 1.4.6.
+- [Release notes](https://github.com/vuejs/composition-api/releases)
+- [Changelog](https://github.com/vuejs/composition-api/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/vuejs/composition-api/compare/v1.4.5...v1.4.6)
+
+---
+updated-dependencies:
+- dependency-name: "@vue/composition-api"
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2bd8ae6</div>
+                                        <div class="message">Merge pull request #866 from geospoc/dependabot/npm_and_yarn/vue/cli-plugin-vuex-5.0.0-rc.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9952f97</div>
+                                        <div class="message">chore(deps-dev): bump @vue/cli-plugin-vuex from 5.0.0-rc.2 to 5.0.0-rc.3
+
+Bumps [@vue/cli-plugin-vuex](https://github.com/vuejs/vue-cli/tree/HEAD/packages/@vue/cli-plugin-vuex) from 5.0.0-rc.2 to 5.0.0-rc.3.
+- [Release notes](https://github.com/vuejs/vue-cli/releases)
+- [Changelog](https://github.com/vuejs/vue-cli/blob/dev/CHANGELOG.md)
+- [Commits](https://github.com/vuejs/vue-cli/commits/v5.0.0-rc.3/packages/@vue/cli-plugin-vuex)
+
+---
+updated-dependencies:
+- dependency-name: "@vue/cli-plugin-vuex"
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e66d075</div>
+                                        <div class="message">chore(deps-dev): bump @vue/cli-plugin-babel
+
+Bumps [@vue/cli-plugin-babel](https://github.com/vuejs/vue-cli/tree/HEAD/packages/@vue/cli-plugin-babel) from 5.0.0-rc.2 to 5.0.0-rc.3.
+- [Release notes](https://github.com/vuejs/vue-cli/releases)
+- [Changelog](https://github.com/vuejs/vue-cli/blob/dev/CHANGELOG.md)
+- [Commits](https://github.com/vuejs/vue-cli/commits/v5.0.0-rc.3/packages/@vue/cli-plugin-babel)
+
+---
+updated-dependencies:
+- dependency-name: "@vue/cli-plugin-babel"
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#75a8dcb</div>
+                                        <div class="message">fix(deps): bump @sentry/integrations from 6.17.3 to 6.17.6
+
+Bumps [@sentry/integrations](https://github.com/getsentry/sentry-javascript) from 6.17.3 to 6.17.6.
+- [Release notes](https://github.com/getsentry/sentry-javascript/releases)
+- [Changelog](https://github.com/getsentry/sentry-javascript/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/getsentry/sentry-javascript/compare/6.17.3...6.17.6)
+
+---
+updated-dependencies:
+- dependency-name: "@sentry/integrations"
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4efacb4</div>
+                                        <div class="message">chore(deps-dev): bump @typescript-eslint/eslint-plugin
+
+Bumps [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin) from 5.10.2 to 5.11.0.
+- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
+- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md)
+- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.11.0/packages/eslint-plugin)
+
+---
+updated-dependencies:
+- dependency-name: "@typescript-eslint/eslint-plugin"
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6ff459</div>
+                                        <div class="message">chore(deps-dev): bump eslint-plugin-vue from 8.4.0 to 8.4.1
+
+Bumps [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) from 8.4.0 to 8.4.1.
+- [Release notes](https://github.com/vuejs/eslint-plugin-vue/releases)
+- [Commits](https://github.com/vuejs/eslint-plugin-vue/compare/v8.4.0...v8.4.1)
+
+---
+updated-dependencies:
+- dependency-name: eslint-plugin-vue
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 45 commits in
+                                        <span class="repo">geospoc/ifc-agrigeo-frontend</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">stage</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c68bbe7</div>
+                                        <div class="message">Merge pull request #856 from geospoc/dependabot/npm_and_yarn/typescript-eslint/parser-5.11.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da69fa3</div>
+                                        <div class="message">Merge pull request #869 from geospoc/dependabot/npm_and_yarn/sentry/integrations-6.17.7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a17607</div>
+                                        <div class="message">fix(deps): bump @sentry/integrations from 6.17.3 to 6.17.7
+
+Bumps [@sentry/integrations](https://github.com/getsentry/sentry-javascript) from 6.17.3 to 6.17.7.
+- [Release notes](https://github.com/getsentry/sentry-javascript/releases)
+- [Changelog](https://github.com/getsentry/sentry-javascript/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/getsentry/sentry-javascript/compare/6.17.3...6.17.7)
+
+---
+updated-dependencies:
+- dependency-name: "@sentry/integrations"
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fbeb93b</div>
+                                        <div class="message">Merge pull request #868 from geospoc/dependabot/npm_and_yarn/vue/cli-plugin-pwa-5.0.0-rc.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c289def</div>
+                                        <div class="message">chore(deps-dev): bump @typescript-eslint/parser from 5.10.2 to 5.11.0
+
+Bumps [@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser) from 5.10.2 to 5.11.0.
+- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
+- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md)
+- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.11.0/packages/parser)
+
+---
+updated-dependencies:
+- dependency-name: "@typescript-eslint/parser"
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#082d2ee</div>
+                                        <div class="message">chore(deps-dev): bump @vue/cli-plugin-pwa from 5.0.0-rc.2 to 5.0.0-rc.3
+
+Bumps [@vue/cli-plugin-pwa](https://github.com/vuejs/vue-cli/tree/HEAD/packages/@vue/cli-plugin-pwa) from 5.0.0-rc.2 to 5.0.0-rc.3.
+- [Release notes](https://github.com/vuejs/vue-cli/releases)
+- [Changelog](https://github.com/vuejs/vue-cli/blob/dev/CHANGELOG.md)
+- [Commits](https://github.com/vuejs/vue-cli/commits/v5.0.0-rc.3/packages/@vue/cli-plugin-pwa)
+
+---
+updated-dependencies:
+- dependency-name: "@vue/cli-plugin-pwa"
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#15a9373</div>
+                                        <div class="message">Merge pull request #855 from geospoc/dependabot/npm_and_yarn/eslint-plugin-vue-8.4.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#799a1a6</div>
+                                        <div class="message">Merge pull request #857 from geospoc/dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.11.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d59bb6</div>
+                                        <div class="message">Merge pull request #858 from geospoc/dependabot/npm_and_yarn/vue/composition-api-1.4.6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f93925b</div>
+                                        <div class="message">Merge pull request #863 from geospoc/dependabot/npm_and_yarn/sentry/integrations-6.17.6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65cd9e4</div>
+                                        <div class="message">Merge pull request #864 from geospoc/dependabot/npm_and_yarn/vue/cli-plugin-router-5.0.0-rc.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e49c61</div>
+                                        <div class="message">chore(deps-dev): bump @vue/cli-plugin-router
+
+Bumps [@vue/cli-plugin-router](https://github.com/vuejs/vue-cli/tree/HEAD/packages/@vue/cli-plugin-router) from 5.0.0-rc.2 to 5.0.0-rc.3.
+- [Release notes](https://github.com/vuejs/vue-cli/releases)
+- [Changelog](https://github.com/vuejs/vue-cli/blob/dev/CHANGELOG.md)
+- [Commits](https://github.com/vuejs/vue-cli/commits/v5.0.0-rc.3/packages/@vue/cli-plugin-router)
+
+---
+updated-dependencies:
+- dependency-name: "@vue/cli-plugin-router"
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d5c100b</div>
+                                        <div class="message">Merge pull request #865 from geospoc/dependabot/npm_and_yarn/vue/cli-plugin-babel-5.0.0-rc.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77dac0f</div>
+                                        <div class="message">chore(deps-dev): bump @vue/composition-api from 1.4.5 to 1.4.6
+
+Bumps [@vue/composition-api](https://github.com/vuejs/composition-api) from 1.4.5 to 1.4.6.
+- [Release notes](https://github.com/vuejs/composition-api/releases)
+- [Changelog](https://github.com/vuejs/composition-api/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/vuejs/composition-api/compare/v1.4.5...v1.4.6)
+
+---
+updated-dependencies:
+- dependency-name: "@vue/composition-api"
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2bd8ae6</div>
+                                        <div class="message">Merge pull request #866 from geospoc/dependabot/npm_and_yarn/vue/cli-plugin-vuex-5.0.0-rc.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9952f97</div>
+                                        <div class="message">chore(deps-dev): bump @vue/cli-plugin-vuex from 5.0.0-rc.2 to 5.0.0-rc.3
+
+Bumps [@vue/cli-plugin-vuex](https://github.com/vuejs/vue-cli/tree/HEAD/packages/@vue/cli-plugin-vuex) from 5.0.0-rc.2 to 5.0.0-rc.3.
+- [Release notes](https://github.com/vuejs/vue-cli/releases)
+- [Changelog](https://github.com/vuejs/vue-cli/blob/dev/CHANGELOG.md)
+- [Commits](https://github.com/vuejs/vue-cli/commits/v5.0.0-rc.3/packages/@vue/cli-plugin-vuex)
+
+---
+updated-dependencies:
+- dependency-name: "@vue/cli-plugin-vuex"
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e66d075</div>
+                                        <div class="message">chore(deps-dev): bump @vue/cli-plugin-babel
+
+Bumps [@vue/cli-plugin-babel](https://github.com/vuejs/vue-cli/tree/HEAD/packages/@vue/cli-plugin-babel) from 5.0.0-rc.2 to 5.0.0-rc.3.
+- [Release notes](https://github.com/vuejs/vue-cli/releases)
+- [Changelog](https://github.com/vuejs/vue-cli/blob/dev/CHANGELOG.md)
+- [Commits](https://github.com/vuejs/vue-cli/commits/v5.0.0-rc.3/packages/@vue/cli-plugin-babel)
+
+---
+updated-dependencies:
+- dependency-name: "@vue/cli-plugin-babel"
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#75a8dcb</div>
+                                        <div class="message">fix(deps): bump @sentry/integrations from 6.17.3 to 6.17.6
+
+Bumps [@sentry/integrations](https://github.com/getsentry/sentry-javascript) from 6.17.3 to 6.17.6.
+- [Release notes](https://github.com/getsentry/sentry-javascript/releases)
+- [Changelog](https://github.com/getsentry/sentry-javascript/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/getsentry/sentry-javascript/compare/6.17.3...6.17.6)
+
+---
+updated-dependencies:
+- dependency-name: "@sentry/integrations"
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4efacb4</div>
+                                        <div class="message">chore(deps-dev): bump @typescript-eslint/eslint-plugin
+
+Bumps [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin) from 5.10.2 to 5.11.0.
+- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
+- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md)
+- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.11.0/packages/eslint-plugin)
+
+---
+updated-dependencies:
+- dependency-name: "@typescript-eslint/eslint-plugin"
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6ff459</div>
+                                        <div class="message">chore(deps-dev): bump eslint-plugin-vue from 8.4.0 to 8.4.1
+
+Bumps [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) from 8.4.0 to 8.4.1.
+- [Release notes](https://github.com/vuejs/eslint-plugin-vue/releases)
+- [Commits](https://github.com/vuejs/eslint-plugin-vue/compare/v8.4.0...v8.4.1)
+
+---
+updated-dependencies:
+- dependency-name: eslint-plugin-vue
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
@@ -1233,30 +1671,34 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/vue-identify-network</span>
+                                        <span class="repo">geospoc/ifc-agrigeo-frontend</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ae07b8f</div>
-                                        <div class="message">Merge pull request #687 from vinayakkulkarni/dependabot/npm_and_yarn/node-fetch-2.6.7</div>
+                                        <div class="sha">#cd71b68</div>
+                                        <div class="message">chore: release v3.1.0 (#877)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5986e02</div>
-                                        <div class="message">fix(deps): bump node-fetch from 2.6.1 to 2.6.7
-
-Bumps [node-fetch](https://github.com/node-fetch/node-fetch) from 2.6.1 to 2.6.7.
-- [Release notes](https://github.com/node-fetch/node-fetch/releases)
-- [Commits](https://github.com/node-fetch/node-fetch/compare/v2.6.1...v2.6.7)
-
----
-updated-dependencies:
-- dependency-name: node-fetch
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#8435e4e</div>
+                                        <div class="message">Merge pull request #875 from geospoc/dev</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">releases/v3.1.0</span>
+                                        in
+                                        <span class="repo">geospoc/ifc-agrigeo-frontend</span>
                                     </div>
                                 </div>
                             </section>
@@ -1268,103 +1710,15 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/vue-identify-network</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">geospoc/ifc-agrigeo-frontend</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">test</span></div>
                                     <div class="commit">
-                                        <div class="sha">#072ff23</div>
-                                        <div class="message">Merge pull request #684 from vinayakkulkarni/dependabot/npm_and_yarn/follow-redirects-1.14.8</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a65fa19</div>
-                                        <div class="message">fix(deps): bump follow-redirects from 1.14.2 to 1.14.8
-
-Bumps [follow-redirects](https://github.com/follow-redirects/follow-redirects) from 1.14.2 to 1.14.8.
-- [Release notes](https://github.com/follow-redirects/follow-redirects/releases)
-- [Commits](https://github.com/follow-redirects/follow-redirects/compare/v1.14.2...v1.14.8)
-
----
-updated-dependencies:
-- dependency-name: follow-redirects
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/v-spotlight</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c332c8d</div>
-                                        <div class="message">Merge pull request #512 from vinayakkulkarni/dependabot/npm_and_yarn/follow-redirects-1.14.8</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#43604c4</div>
-                                        <div class="message">fix(deps): bump follow-redirects from 1.14.7 to 1.14.8
-
-Bumps [follow-redirects](https://github.com/follow-redirects/follow-redirects) from 1.14.7 to 1.14.8.
-- [Release notes](https://github.com/follow-redirects/follow-redirects/releases)
-- [Commits](https://github.com/follow-redirects/follow-redirects/compare/v1.14.7...v1.14.8)
-
----
-updated-dependencies:
-- dependency-name: follow-redirects
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/v-offline</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5a22abf</div>
-                                        <div class="message">Merge pull request #811 from vinayakkulkarni/dependabot/npm_and_yarn/follow-redirects-1.14.8</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#31a7ece</div>
-                                        <div class="message">fix(deps): bump follow-redirects from 1.14.7 to 1.14.8
-
-Bumps [follow-redirects](https://github.com/follow-redirects/follow-redirects) from 1.14.7 to 1.14.8.
-- [Release notes](https://github.com/follow-redirects/follow-redirects/releases)
-- [Commits](https://github.com/follow-redirects/follow-redirects/compare/v1.14.7...v1.14.8)
-
----
-updated-dependencies:
-- dependency-name: follow-redirects
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#cd71b68</div>
+                                        <div class="message">chore: release v3.1.0 (#877)</div>
                                     </div>
                                 </div>
                             </section>
