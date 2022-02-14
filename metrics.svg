@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1054" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1004" class="">
     <defs>
         <style/>
     </defs>
@@ -49,7 +49,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -57,7 +57,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 192 repositories
+                            Contributed to  repositories
                         </div>
                     </section>
                 </div>
@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~94.40
+                            Average per day at ~94.42
                         </div>
                     </section>
                 </div>
@@ -1083,10 +1083,10 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.983050847457627 0,2.983050847457627 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.983050847457627 1.7,3.983050847457627 z"/>
                             </g>
-                            <g transform="translate(-10.2, 10.271186440677965)">
+                            <g transform="translate(-10.2, 10.237288135593221)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7288135593220337 0,2.7288135593220337 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7288135593220337 1.7,3.7288135593220337 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.76271186440678 0,2.76271186440678 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.76271186440678 1.7,3.76271186440678 z"/>
                             </g>
                         </g>
                         <g transform="translate(44.199999999999996, 26)">
@@ -1109,7 +1109,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 194 edited files from 6704 commits</small>
+                <small>estimation from 194 edited files from 6706 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1151,27 +1151,27 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 41 edited files from 95 commits over last 2 days</small>
+                <small>estimation from 25 edited files from 99 commits over last 3 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="327.27365991279817" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="327.27365991279817" y="0" width="132.72634008720186" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.5855855855856" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="285.5855855855856" y="0" width="174.41441441441444" height="8" fill="#41b883"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                SCSS
+                                TypeScript
                             </div>
                             <small>
-                                <div>310 lines</div>
-                                <div>71.15%</div>
+                                <div>88 lines</div>
+                                <div>62.08%</div>
                             </small>
                         </div>
                     </section>
@@ -1184,8 +1184,8 @@
                                 Vue
                             </div>
                             <small>
-                                <div>73 lines</div>
-                                <div>28.85%</div>
+                                <div>37 lines</div>
+                                <div>37.92%</div>
                             </small>
                         </div>
                     </section>
@@ -1208,27 +1208,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/s-offline</span>
+                                        <span class="repo">vinayakkulkarni/nuxt-ava-e2e-unit-testing</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e8b1baa</div>
-                                        <div class="message">Merge pull request #559 from vinayakkulkarni/dependabot/npm_and_yarn/axios-0.21.4</div>
+                                        <div class="sha">#202eef4</div>
+                                        <div class="message">Merge pull request #511 from vinayakkulkarni/dependabot/npm_and_yarn/follow-redirects-1.14.8</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#386c24c</div>
-                                        <div class="message">fix(deps): bump axios from 0.21.1 to 0.21.4
+                                        <div class="sha">#411e635</div>
+                                        <div class="message">fix(deps): bump follow-redirects from 1.14.7 to 1.14.8
 
-Bumps [axios](https://github.com/axios/axios) from 0.21.1 to 0.21.4.
-- [Release notes](https://github.com/axios/axios/releases)
-- [Changelog](https://github.com/axios/axios/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/axios/axios/compare/v0.21.1...v0.21.4)
+Bumps [follow-redirects](https://github.com/follow-redirects/follow-redirects) from 1.14.7 to 1.14.8.
+- [Release notes](https://github.com/follow-redirects/follow-redirects/releases)
+- [Commits](https://github.com/follow-redirects/follow-redirects/compare/v1.14.7...v1.14.8)
 
 ---
 updated-dependencies:
-- dependency-name: axios
+- dependency-name: follow-redirects
   dependency-type: indirect
 ...
 
@@ -1245,26 +1244,26 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/s-offline</span>
+                                        <span class="repo">vinayakkulkarni/v-tweakpane</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8a6877e</div>
-                                        <div class="message">Merge pull request #558 from vinayakkulkarni/dependabot/npm_and_yarn/ansi-regex-5.0.1</div>
+                                        <div class="sha">#028f8f7</div>
+                                        <div class="message">Merge pull request #317 from vinayakkulkarni/dependabot/npm_and_yarn/follow-redirects-1.14.8</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e5ae250</div>
-                                        <div class="message">fix(deps): bump ansi-regex from 5.0.0 to 5.0.1
+                                        <div class="sha">#55d7992</div>
+                                        <div class="message">fix(deps): bump follow-redirects from 1.14.6 to 1.14.8
 
-Bumps [ansi-regex](https://github.com/chalk/ansi-regex) from 5.0.0 to 5.0.1.
-- [Release notes](https://github.com/chalk/ansi-regex/releases)
-- [Commits](https://github.com/chalk/ansi-regex/compare/v5.0.0...v5.0.1)
+Bumps [follow-redirects](https://github.com/follow-redirects/follow-redirects) from 1.14.6 to 1.14.8.
+- [Release notes](https://github.com/follow-redirects/follow-redirects/releases)
+- [Commits](https://github.com/follow-redirects/follow-redirects/compare/v1.14.6...v1.14.8)
 
 ---
 updated-dependencies:
-- dependency-name: ansi-regex
+- dependency-name: follow-redirects
   dependency-type: indirect
 ...
 
@@ -1281,26 +1280,28 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/s-offline</span>
+                                        <span class="repo">geospoc/ani-routing-dashboard</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#613edb8</div>
-                                        <div class="message">Merge pull request #557 from vinayakkulkarni/dependabot/npm_and_yarn/eslint-plugin-jsdoc-37.9.1</div>
+                                        <div class="sha">#042fc95</div>
+                                        <div class="message">Merge pull request #301 from geospoc/dependabot/npm_and_yarn/stylelint-config-recommended-vue-1.3.0
+
+chore(deps-dev): bump stylelint-config-recommended-vue from 1.2.0 to 1.3.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1b0145f</div>
-                                        <div class="message">chore(deps-dev): bump eslint-plugin-jsdoc from 37.8.2 to 37.9.1
+                                        <div class="sha">#079361c</div>
+                                        <div class="message">chore(deps-dev): bump stylelint-config-recommended-vue
 
-Bumps [eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc) from 37.8.2 to 37.9.1.
-- [Release notes](https://github.com/gajus/eslint-plugin-jsdoc/releases)
-- [Commits](https://github.com/gajus/eslint-plugin-jsdoc/compare/v37.8.2...v37.9.1)
+Bumps [stylelint-config-recommended-vue](https://github.com/ota-meshi/stylelint-config-recommended-vue) from 1.2.0 to 1.3.0.
+- [Release notes](https://github.com/ota-meshi/stylelint-config-recommended-vue/releases)
+- [Commits](https://github.com/ota-meshi/stylelint-config-recommended-vue/compare/v1.2.0...v1.3.0)
 
 ---
 updated-dependencies:
-- dependency-name: eslint-plugin-jsdoc
+- dependency-name: stylelint-config-recommended-vue
   dependency-type: direct:development
   update-type: version-update:semver-minor
 ...
@@ -1314,35 +1315,14 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/s-offline</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#54fdeb1</div>
-                                        <div class="message">Merge pull request #556 from vinayakkulkarni/dependabot/npm_and_yarn/lint-staged-12.3.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3d98fec</div>
-                                        <div class="message">chore(deps-dev): bump lint-staged from 12.3.3 to 12.3.4
-
-Bumps [lint-staged](https://github.com/okonet/lint-staged) from 12.3.3 to 12.3.4.
-- [Release notes](https://github.com/okonet/lint-staged/releases)
-- [Commits](https://github.com/okonet/lint-staged/compare/v12.3.3...v12.3.4)
-
----
-updated-dependencies:
-- dependency-name: lint-staged
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/npm_and_yarn/stylelint-config-recommended-vue-1.3.0</span>
+                                        in
+                                        <span class="repo">geospoc/ani-routing-dashboard</span>
                                     </div>
                                 </div>
                             </section>
@@ -1355,27 +1335,29 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/s-offline</span>
+                                        <span class="repo">geospoc/ani-routing-dashboard</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c6de2d6</div>
-                                        <div class="message">Merge pull request #555 from vinayakkulkarni/dependabot/npm_and_yarn/commitlint/config-conventional-16.2.1</div>
+                                        <div class="sha">#ce52ca0</div>
+                                        <div class="message">Merge pull request #303 from geospoc/dependabot/npm_and_yarn/commitlint/cli-16.2.1
+
+chore(deps-dev): bump @commitlint/cli from 16.1.0 to 16.2.1</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b107bbd</div>
-                                        <div class="message">chore(deps-dev): bump @commitlint/config-conventional
+                                        <div class="sha">#4570a68</div>
+                                        <div class="message">chore(deps-dev): bump @commitlint/cli from 16.1.0 to 16.2.1
 
-Bumps [@commitlint/config-conventional](https://github.com/conventional-changelog/commitlint/tree/HEAD/@commitlint/config-conventional) from 16.0.0 to 16.2.1.
+Bumps [@commitlint/cli](https://github.com/conventional-changelog/commitlint/tree/HEAD/@commitlint/cli) from 16.1.0 to 16.2.1.
 - [Release notes](https://github.com/conventional-changelog/commitlint/releases)
-- [Changelog](https://github.com/conventional-changelog/commitlint/blob/master/@commitlint/config-conventional/CHANGELOG.md)
-- [Commits](https://github.com/conventional-changelog/commitlint/commits/v16.2.1/@commitlint/config-conventional)
+- [Changelog](https://github.com/conventional-changelog/commitlint/blob/master/@commitlint/cli/CHANGELOG.md)
+- [Commits](https://github.com/conventional-changelog/commitlint/commits/v16.2.1/@commitlint/cli)
 
 ---
 updated-dependencies:
-- dependency-name: "@commitlint/config-conventional"
+- dependency-name: "@commitlint/cli"
   dependency-type: direct:development
   update-type: version-update:semver-minor
 ...
