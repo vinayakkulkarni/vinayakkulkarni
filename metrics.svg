@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1104" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="904" class="">
     <defs>
         <style/>
     </defs>
@@ -57,7 +57,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 192 repositories
+                            Contributed to  repositories
                         </div>
                     </section>
                 </div>
@@ -1161,14 +1161,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 103 edited files from 81 commits over last 1 day</small>
+                <small>estimation from 79 edited files from 84 commits over last 1 day</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="314.06300691539315" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="314.06300691539315" y="0" width="145.93699308460685" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="358.5425262216036" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="358.5425262216036" y="0" width="101.45747377839639" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1180,8 +1180,8 @@
                                 Vue
                             </div>
                             <small>
-                                <div>768 lines</div>
-                                <div>68.27%</div>
+                                <div>760 lines</div>
+                                <div>77.94%</div>
                             </small>
                         </div>
                     </section>
@@ -1194,8 +1194,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>363 lines</div>
-                                <div>31.73%</div>
+                                <div>201 lines</div>
+                                <div>22.06%</div>
                             </small>
                         </div>
                     </section>
@@ -1214,72 +1214,100 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/npm_and_yarn/commitlint/cli-16.2.1</span>
+                                        in
+                                        <span class="repo">geospoc/ani-routing-api</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">geospoc/v-mapbox</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">geospoc/ani-routing-api</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">refactor/v-mapbox-version-3</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b7c0983</div>
-                                        <div class="message">docs: migrate Vuepress to v2.x</div>
+                                        <div class="sha">#c8b61ac</div>
+                                        <div class="message">Merge pull request #70 from geospoc/dependabot/npm_and_yarn/commitlint/cli-16.2.1</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1a967e3</div>
-                                        <div class="message">fix: unused variables</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d81a70c</div>
-                                        <div class="message">feat: persist layers when style/basemap changes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#842694b</div>
-                                        <div class="message">chore: bump deps &amp; cleanup rollup config(s)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f42a224</div>
-                                        <div class="message">refactor: from scratch init 6 🎉</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7347470</div>
-                                        <div class="message">Merge pull request #769 from geospoc/dependabot/npm_and_yarn/typescript-eslint/parser-5.12.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21c57d8</div>
-                                        <div class="message">chore(deps-dev): bump @typescript-eslint/parser from 5.11.0 to 5.12.0
+                                        <div class="sha">#3211db9</div>
+                                        <div class="message">chore(deps-dev): bump @commitlint/cli from 16.1.0 to 16.2.1
 
-Bumps [@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser) from 5.11.0 to 5.12.0.
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.12.0/packages/parser)
+Bumps [@commitlint/cli](https://github.com/conventional-changelog/commitlint/tree/HEAD/@commitlint/cli) from 16.1.0 to 16.2.1.
+- [Release notes](https://github.com/conventional-changelog/commitlint/releases)
+- [Changelog](https://github.com/conventional-changelog/commitlint/blob/master/@commitlint/cli/CHANGELOG.md)
+- [Commits](https://github.com/conventional-changelog/commitlint/commits/v16.2.1/@commitlint/cli)
 
 ---
 updated-dependencies:
-- dependency-name: "@typescript-eslint/parser"
+- dependency-name: "@commitlint/cli"
   dependency-type: direct:development
   update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/npm_and_yarn/lint-staged-12.3.4</span>
+                                        in
+                                        <span class="repo">geospoc/ani-routing-api</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">geospoc/ani-routing-api</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#30cb82c</div>
-                                        <div class="message">Merge pull request #770 from geospoc/dependabot/npm_and_yarn/types/node-17.0.18</div>
+                                        <div class="sha">#edb1916</div>
+                                        <div class="message">Merge pull request #68 from geospoc/dependabot/npm_and_yarn/lint-staged-12.3.4</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0d14511</div>
-                                        <div class="message">chore(deps-dev): bump @types/node from 17.0.17 to 17.0.18
+                                        <div class="sha">#2ed1e4a</div>
+                                        <div class="message">chore(deps-dev): bump lint-staged from 12.3.3 to 12.3.4
 
-Bumps [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) from 17.0.17 to 17.0.18.
-- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
-- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
+Bumps [lint-staged](https://github.com/okonet/lint-staged) from 12.3.3 to 12.3.4.
+- [Release notes](https://github.com/okonet/lint-staged/releases)
+- [Commits](https://github.com/okonet/lint-staged/compare/v12.3.3...v12.3.4)
 
 ---
 updated-dependencies:
-- dependency-name: "@types/node"
+- dependency-name: lint-staged
   dependency-type: direct:development
   update-type: version-update:semver-patch
 ...
@@ -1298,104 +1326,9 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">dependabot/npm_and_yarn/typescript-eslint/parser-5.12.0</span>
+                                        <span class="code">dependabot/npm_and_yarn/commitlint/config-conventional-16.2.1</span>
                                         in
-                                        <span class="repo">geospoc/v-mapbox</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">geospoc/v-mapbox</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7347470</div>
-                                        <div class="message">Merge pull request #769 from geospoc/dependabot/npm_and_yarn/typescript-eslint/parser-5.12.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21c57d8</div>
-                                        <div class="message">chore(deps-dev): bump @typescript-eslint/parser from 5.11.0 to 5.12.0
-
-Bumps [@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser) from 5.11.0 to 5.12.0.
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.12.0/packages/parser)
-
----
-updated-dependencies:
-- dependency-name: "@typescript-eslint/parser"
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">geospoc/v-mapbox</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#30cb82c</div>
-                                        <div class="message">Merge pull request #770 from geospoc/dependabot/npm_and_yarn/types/node-17.0.18</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d14511</div>
-                                        <div class="message">chore(deps-dev): bump @types/node from 17.0.17 to 17.0.18
-
-Bumps [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) from 17.0.17 to 17.0.18.
-- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
-- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
-
----
-updated-dependencies:
-- dependency-name: "@types/node"
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">geospoc/v-mapbox</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">refactor/v-mapbox-version-3</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f95c513</div>
-                                        <div class="message">docs: migrate Vuepress to v2.x</div>
+                                        <span class="repo">geospoc/ani-routing-api</span>
                                     </div>
                                 </div>
                             </section>
