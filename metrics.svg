@@ -1166,14 +1166,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 60 edited files from 88 commits over last 2 days</small>
+                <small>estimation from 47 edited files from 89 commits over last 2 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="354.0199539524175" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="354.0199539524175" y="0" width="105.98004604758249" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="309.0230515916575" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="309.0230515916575" y="0" width="150.97694840834248" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1185,8 +1185,8 @@
                                 Vue
                             </div>
                             <small>
-                                <div>735 lines</div>
-                                <div>76.96%</div>
+                                <div>459 lines</div>
+                                <div>67.18%</div>
                             </small>
                         </div>
                     </section>
@@ -1199,8 +1199,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>198 lines</div>
-                                <div>23.04%</div>
+                                <div>197 lines</div>
+                                <div>32.82%</div>
                             </small>
                         </div>
                     </section>
@@ -1223,149 +1223,29 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/v-tweakpane</span>
+                                        <span class="repo">geospoc/gqi-ola-maps-frontend</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4bf380c</div>
-                                        <div class="message">Merge pull request #310 from vinayakkulkarni/dependabot/npm_and_yarn/storybook/vue3-6.4.19
+                                        <div class="sha">#70ef8af</div>
+                                        <div class="message">Merge pull request #176 from geospoc/dependabot/npm_and_yarn/cypress-9.5.0
 
-chore(deps-dev): bump @storybook/vue3 from 6.4.18 to 6.4.19</div>
+chore(deps-dev): bump cypress from 9.4.1 to 9.5.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#132d750</div>
-                                        <div class="message">chore(deps-dev): bump @storybook/vue3 from 6.4.18 to 6.4.19
+                                        <div class="sha">#5d6ce7d</div>
+                                        <div class="message">chore(deps-dev): bump cypress from 9.4.1 to 9.5.0
 
-Bumps [@storybook/vue3](https://github.com/storybookjs/storybook/tree/HEAD/app/vue3) from 6.4.18 to 6.4.19.
-- [Release notes](https://github.com/storybookjs/storybook/releases)
-- [Changelog](https://github.com/storybookjs/storybook/blob/v6.4.19/CHANGELOG.md)
-- [Commits](https://github.com/storybookjs/storybook/commits/v6.4.19/app/vue3)
+Bumps [cypress](https://github.com/cypress-io/cypress) from 9.4.1 to 9.5.0.
+- [Release notes](https://github.com/cypress-io/cypress/releases)
+- [Changelog](https://github.com/cypress-io/cypress/blob/develop/.releaserc.base.js)
+- [Commits](https://github.com/cypress-io/cypress/compare/v9.4.1...v9.5.0)
 
 ---
 updated-dependencies:
-- dependency-name: "@storybook/vue3"
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/v-tweakpane</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6238997</div>
-                                        <div class="message">Merge pull request #308 from vinayakkulkarni/dependabot/npm_and_yarn/storybook/addon-links-6.4.19
-
-chore(deps-dev): bump @storybook/addon-links from 6.4.18 to 6.4.19</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ef0566b</div>
-                                        <div class="message">chore(deps-dev): bump @storybook/addon-links from 6.4.18 to 6.4.19
-
-Bumps [@storybook/addon-links](https://github.com/storybookjs/storybook/tree/HEAD/addons/links) from 6.4.18 to 6.4.19.
-- [Release notes](https://github.com/storybookjs/storybook/releases)
-- [Changelog](https://github.com/storybookjs/storybook/blob/v6.4.19/CHANGELOG.md)
-- [Commits](https://github.com/storybookjs/storybook/commits/v6.4.19/addons/links)
-
----
-updated-dependencies:
-- dependency-name: "@storybook/addon-links"
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/v-tweakpane</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dcf7de6</div>
-                                        <div class="message">Merge pull request #319 from vinayakkulkarni/dependabot/npm_and_yarn/vue-3.2.31
-
-chore(deps-dev): bump vue from 3.2.30 to 3.2.31</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#78b6d6f</div>
-                                        <div class="message">chore(deps-dev): bump vue from 3.2.30 to 3.2.31
-
-Bumps [vue](https://github.com/vuejs/core) from 3.2.30 to 3.2.31.
-- [Release notes](https://github.com/vuejs/core/releases)
-- [Changelog](https://github.com/vuejs/core/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/vuejs/core/compare/v3.2.30...v3.2.31)
-
----
-updated-dependencies:
-- dependency-name: vue
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/v-tweakpane</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#10c566f</div>
-                                        <div class="message">Merge pull request #324 from vinayakkulkarni/dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.12.0
-
-chore(deps-dev): bump @typescript-eslint/eslint-plugin from 5.11.0 to 5.12.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bc3fcea</div>
-                                        <div class="message">chore(deps-dev): bump @typescript-eslint/eslint-plugin
-
-Bumps [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin) from 5.11.0 to 5.12.0.
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.12.0/packages/eslint-plugin)
-
----
-updated-dependencies:
-- dependency-name: "@typescript-eslint/eslint-plugin"
+- dependency-name: cypress
   dependency-type: direct:development
   update-type: version-update:semver-minor
 ...
@@ -1383,31 +1263,148 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/v-tweakpane</span>
+                                        <span class="repo">geospoc/gqi-ola-maps-frontend</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#824a47b</div>
-                                        <div class="message">Merge pull request #311 from vinayakkulkarni/dependabot/npm_and_yarn/storybook/addon-essentials-6.4.19
+                                        <div class="sha">#e0e8f2e</div>
+                                        <div class="message">Merge pull request #168 from geospoc/dependabot/npm_and_yarn/vue/runtime-dom-3.2.31
 
-chore(deps-dev): bump @storybook/addon-essentials from 6.4.18 to 6.4.19</div>
+chore(deps-dev): bump @vue/runtime-dom from 3.2.30 to 3.2.31</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#21198bc</div>
-                                        <div class="message">chore(deps-dev): bump @storybook/addon-essentials from 6.4.18 to 6.4.19
+                                        <div class="sha">#da41755</div>
+                                        <div class="message">chore(deps-dev): bump @vue/runtime-dom from 3.2.30 to 3.2.31
 
-Bumps [@storybook/addon-essentials](https://github.com/storybookjs/storybook/tree/HEAD/addons/essentials) from 6.4.18 to 6.4.19.
-- [Release notes](https://github.com/storybookjs/storybook/releases)
-- [Changelog](https://github.com/storybookjs/storybook/blob/v6.4.19/CHANGELOG.md)
-- [Commits](https://github.com/storybookjs/storybook/commits/v6.4.19/addons/essentials)
+Bumps [@vue/runtime-dom](https://github.com/vuejs/core/tree/HEAD/packages/runtime-dom) from 3.2.30 to 3.2.31.
+- [Release notes](https://github.com/vuejs/core/releases)
+- [Changelog](https://github.com/vuejs/core/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/vuejs/core/commits/v3.2.31/packages/runtime-dom)
 
 ---
 updated-dependencies:
-- dependency-name: "@storybook/addon-essentials"
+- dependency-name: "@vue/runtime-dom"
   dependency-type: direct:development
   update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">geospoc/gqi-ola-maps-frontend</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c4c7f2f</div>
+                                        <div class="message">Merge pull request #169 from geospoc/dependabot/npm_and_yarn/vueuse/core-7.6.2
+
+fix(deps): bump @vueuse/core from 7.6.1 to 7.6.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fbeec8f</div>
+                                        <div class="message">fix(deps): bump @vueuse/core from 7.6.1 to 7.6.2
+
+Bumps [@vueuse/core](https://github.com/vueuse/vueuse/tree/HEAD/packages/core) from 7.6.1 to 7.6.2.
+- [Release notes](https://github.com/vueuse/vueuse/releases)
+- [Commits](https://github.com/vueuse/vueuse/commits/v7.6.2/packages/core)
+
+---
+updated-dependencies:
+- dependency-name: "@vueuse/core"
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">geospoc/gqi-ola-maps-frontend</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#31293a2</div>
+                                        <div class="message">Merge pull request #170 from geospoc/dependabot/npm_and_yarn/eslint-8.9.0
+
+chore(deps-dev): bump eslint from 8.8.0 to 8.9.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d86c73f</div>
+                                        <div class="message">chore(deps-dev): bump eslint from 8.8.0 to 8.9.0
+
+Bumps [eslint](https://github.com/eslint/eslint) from 8.8.0 to 8.9.0.
+- [Release notes](https://github.com/eslint/eslint/releases)
+- [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/eslint/eslint/compare/v8.8.0...v8.9.0)
+
+---
+updated-dependencies:
+- dependency-name: eslint
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">geospoc/gqi-ola-maps-frontend</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1412f18</div>
+                                        <div class="message">Merge pull request #171 from geospoc/dependabot/npm_and_yarn/follow-redirects-1.14.8
+
+fix(deps): bump follow-redirects from 1.14.7 to 1.14.8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a83dcd</div>
+                                        <div class="message">fix(deps): bump follow-redirects from 1.14.7 to 1.14.8
+
+Bumps [follow-redirects](https://github.com/follow-redirects/follow-redirects) from 1.14.7 to 1.14.8.
+- [Release notes](https://github.com/follow-redirects/follow-redirects/releases)
+- [Commits](https://github.com/follow-redirects/follow-redirects/compare/v1.14.7...v1.14.8)
+
+---
+updated-dependencies:
+- dependency-name: follow-redirects
+  dependency-type: indirect
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
