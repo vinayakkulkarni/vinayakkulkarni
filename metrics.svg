@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1054" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="884" class="">
     <defs>
         <style/>
     </defs>
@@ -37,19 +37,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1109,7 +1109,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 194 edited files from 6778 commits</small>
+                <small>estimation from 194 edited files from 6793 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1151,43 +1151,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 57 edited files from 84 commits over last 3 days</small>
+                <small>estimation from 20 edited files from 85 commits over last 0 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="385.8437167970636" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="385.8437167970636" y="0" width="74.15628320293635" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#d1d5da"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Vue
-                            </div>
-                            <small>
-                                <div>378 lines</div>
-                                <div>83.88%</div>
-                            </small>
-                        </div>
                     </section>
                     <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                JavaScript
-                            </div>
-                            <small>
-                                <div>74 lines</div>
-                                <div>16.12%</div>
-                            </small>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1207,33 +1181,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/janak</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">geospoc/ani-maps-heatmaps-api</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4aabb49</div>
-                                        <div class="message">Merge pull request #332 from vinayakkulkarni/dependabot/npm_and_yarn/trim-off-newlines-1.0.3
-
-fix(deps): bump trim-off-newlines from 1.0.1 to 1.0.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#252559f</div>
-                                        <div class="message">fix(deps): bump trim-off-newlines from 1.0.1 to 1.0.3
-
-Bumps [trim-off-newlines](https://github.com/stevemao/trim-off-newlines) from 1.0.1 to 1.0.3.
-- [Release notes](https://github.com/stevemao/trim-off-newlines/releases)
-- [Commits](https://github.com/stevemao/trim-off-newlines/compare/v1.0.1...v1.0.3)
-
----
-updated-dependencies:
-- dependency-name: trim-off-newlines
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#6c68d7d</div>
+                                        <div class="message">fix: typo</div>
                                     </div>
                                 </div>
                             </section>
@@ -1245,34 +1201,15 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/janak</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">geospoc/ani-maps-heatmaps-api</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7e912b4</div>
-                                        <div class="message">Merge pull request #334 from vinayakkulkarni/dependabot/npm_and_yarn/eslint-plugin-jsdoc-37.9.4
-
-chore(deps-dev): bump eslint-plugin-jsdoc from 37.9.1 to 37.9.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#79ee7f6</div>
-                                        <div class="message">chore(deps-dev): bump eslint-plugin-jsdoc from 37.9.1 to 37.9.4
-
-Bumps [eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc) from 37.9.1 to 37.9.4.
-- [Release notes](https://github.com/gajus/eslint-plugin-jsdoc/releases)
-- [Commits](https://github.com/gajus/eslint-plugin-jsdoc/compare/v37.9.1...v37.9.4)
-
----
-updated-dependencies:
-- dependency-name: eslint-plugin-jsdoc
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#bfe55b6</div>
+                                        <div class="message">docs: update docker container names</div>
                                     </div>
                                 </div>
                             </section>
@@ -1284,34 +1221,15 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">geoql/v-mapkit.js</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">geospoc/ani-maps-heatmaps-api</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#73beb84</div>
-                                        <div class="message">Merge pull request #373 from geoql/dependabot/npm_and_yarn/eslint-plugin-jsdoc-37.9.2
-
-chore(deps-dev): bump eslint-plugin-jsdoc from 37.9.1 to 37.9.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7606caa</div>
-                                        <div class="message">chore(deps-dev): bump eslint-plugin-jsdoc from 37.9.1 to 37.9.2
-
-Bumps [eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc) from 37.9.1 to 37.9.2.
-- [Release notes](https://github.com/gajus/eslint-plugin-jsdoc/releases)
-- [Commits](https://github.com/gajus/eslint-plugin-jsdoc/compare/v37.9.1...v37.9.2)
-
----
-updated-dependencies:
-- dependency-name: eslint-plugin-jsdoc
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#92a016b</div>
+                                        <div class="message">fix: update logic for values</div>
                                     </div>
                                 </div>
                             </section>
@@ -1320,38 +1238,11 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">geoql/v-mapkit.js</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#be9e33c</div>
-                                        <div class="message">Merge pull request #372 from geoql/dependabot/npm_and_yarn/babel/core-7.17.5
-
-chore(deps-dev): bump @babel/core from 7.17.2 to 7.17.5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6ceb736</div>
-                                        <div class="message">chore(deps-dev): bump @babel/core from 7.17.2 to 7.17.5
-
-Bumps [@babel/core](https://github.com/babel/babel/tree/HEAD/packages/babel-core) from 7.17.2 to 7.17.5.
-- [Release notes](https://github.com/babel/babel/releases)
-- [Changelog](https://github.com/babel/babel/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/babel/babel/commits/v7.17.5/packages/babel-core)
-
----
-updated-dependencies:
-- dependency-name: "@babel/core"
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        Starred
+                                        <span class="repo">zplug/zplug</span>
                                     </div>
                                 </div>
                             </section>
@@ -1360,38 +1251,11 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">geoql/v-mapkit.js</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#32e60fa</div>
-                                        <div class="message">Merge pull request #371 from geoql/dependabot/npm_and_yarn/stylelint-14.5.1
-
-chore(deps-dev): bump stylelint from 14.5.0 to 14.5.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f0e0796</div>
-                                        <div class="message">chore(deps-dev): bump stylelint from 14.5.0 to 14.5.1
-
-Bumps [stylelint](https://github.com/stylelint/stylelint) from 14.5.0 to 14.5.1.
-- [Release notes](https://github.com/stylelint/stylelint/releases)
-- [Changelog](https://github.com/stylelint/stylelint/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/stylelint/stylelint/compare/14.5.0...14.5.1)
-
----
-updated-dependencies:
-- dependency-name: stylelint
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        Starred
+                                        <span class="repo">jesseduffield/lazydocker</span>
                                     </div>
                                 </div>
                             </section>
@@ -1413,13 +1277,13 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="82.25 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="78.33333333333333 329"/>
                                         <text x="60" y="60" dominant-baseline="central">❤️</text>
                                     </svg>
                                     <span class="title nowrap">
                                         5
                                         <small>
-                                            (25
+                                            (24
                                             <small>%</small>
                                             )
                                         </small>
@@ -1428,13 +1292,13 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="164.5 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="172.33333333333334 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👍</text>
                                     </svg>
                                     <span class="title nowrap">
-                                        10
+                                        11
                                         <small>
-                                            (50
+                                            (52
                                             <small>%</small>
                                             )
                                         </small>
@@ -1485,7 +1349,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="16.45 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="15.666666666666666 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👀</text>
                                     </svg>
                                     <span class="title nowrap">
@@ -1514,13 +1378,13 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="65.8 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="62.666666666666664 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🎉</text>
                                     </svg>
                                     <span class="title nowrap">
                                         4
                                         <small>
-                                            (20
+                                            (19
                                             <small>%</small>
                                             )
                                         </small>
