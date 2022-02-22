@@ -1114,7 +1114,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 194 edited files from 6801 commits</small>
+                <small>estimation from 194 edited files from 6812 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1156,7 +1156,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 20 edited files from 87 commits over last 1 day</small>
+                <small>estimation from 31 edited files from 99 commits over last 1 day</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1193,23 +1193,23 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8b30768</div>
-                                        <div class="message">Merge pull request #305 from vinayakkulkarni/dependabot/npm_and_yarn/vue/composition-api-1.4.6
+                                        <div class="sha">#166d70f</div>
+                                        <div class="message">Merge pull request #324 from vinayakkulkarni/dependabot/npm_and_yarn/sass-1.49.8
 
-chore(deps-dev): bump @vue/composition-api from 1.4.5 to 1.4.6</div>
+chore(deps-dev): bump sass from 1.49.7 to 1.49.8</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8c58232</div>
-                                        <div class="message">chore(deps-dev): bump @vue/composition-api from 1.4.5 to 1.4.6
+                                        <div class="sha">#af6a33d</div>
+                                        <div class="message">chore(deps-dev): bump sass from 1.49.7 to 1.49.8
 
-Bumps [@vue/composition-api](https://github.com/vuejs/composition-api) from 1.4.5 to 1.4.6.
-- [Release notes](https://github.com/vuejs/composition-api/releases)
-- [Changelog](https://github.com/vuejs/composition-api/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/vuejs/composition-api/compare/v1.4.5...v1.4.6)
+Bumps [sass](https://github.com/sass/dart-sass) from 1.49.7 to 1.49.8.
+- [Release notes](https://github.com/sass/dart-sass/releases)
+- [Changelog](https://github.com/sass/dart-sass/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/sass/dart-sass/compare/1.49.7...1.49.8)
 
 ---
 updated-dependencies:
-- dependency-name: "@vue/composition-api"
+- dependency-name: sass
   dependency-type: direct:development
   update-type: version-update:semver-patch
 ...
@@ -1233,102 +1233,23 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2f2c776</div>
-                                        <div class="message">Merge pull request #318 from vinayakkulkarni/dependabot/npm_and_yarn/babel/core-7.17.5
+                                        <div class="sha">#4ced208</div>
+                                        <div class="message">Merge pull request #327 from vinayakkulkarni/dependabot/npm_and_yarn/commitlint/cli-16.2.1
 
-chore(deps-dev): bump @babel/core from 7.17.0 to 7.17.5</div>
+chore(deps-dev): bump @commitlint/cli from 16.1.0 to 16.2.1</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c6ad403</div>
-                                        <div class="message">chore(deps-dev): bump @babel/core from 7.17.0 to 7.17.5
+                                        <div class="sha">#4f67d57</div>
+                                        <div class="message">chore(deps-dev): bump @commitlint/cli from 16.1.0 to 16.2.1
 
-Bumps [@babel/core](https://github.com/babel/babel/tree/HEAD/packages/babel-core) from 7.17.0 to 7.17.5.
-- [Release notes](https://github.com/babel/babel/releases)
-- [Changelog](https://github.com/babel/babel/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/babel/babel/commits/v7.17.5/packages/babel-core)
+Bumps [@commitlint/cli](https://github.com/conventional-changelog/commitlint/tree/HEAD/@commitlint/cli) from 16.1.0 to 16.2.1.
+- [Release notes](https://github.com/conventional-changelog/commitlint/releases)
+- [Changelog](https://github.com/conventional-changelog/commitlint/blob/master/@commitlint/cli/CHANGELOG.md)
+- [Commits](https://github.com/conventional-changelog/commitlint/commits/v16.2.1/@commitlint/cli)
 
 ---
 updated-dependencies:
-- dependency-name: "@babel/core"
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/v-skeletor</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2d489e0</div>
-                                        <div class="message">Merge pull request #319 from vinayakkulkarni/dependabot/npm_and_yarn/rollup-2.67.3
-
-chore(deps-dev): bump rollup from 2.67.0 to 2.67.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a7aa26</div>
-                                        <div class="message">chore(deps-dev): bump rollup from 2.67.0 to 2.67.3
-
-Bumps [rollup](https://github.com/rollup/rollup) from 2.67.0 to 2.67.3.
-- [Release notes](https://github.com/rollup/rollup/releases)
-- [Changelog](https://github.com/rollup/rollup/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/rollup/rollup/compare/v2.67.0...v2.67.3)
-
----
-updated-dependencies:
-- dependency-name: rollup
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/v-skeletor</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3a77751</div>
-                                        <div class="message">Merge pull request #321 from vinayakkulkarni/dependabot/npm_and_yarn/eslint-plugin-jsdoc-37.9.4
-
-chore(deps-dev): bump eslint-plugin-jsdoc from 37.7.1 to 37.9.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dcb851b</div>
-                                        <div class="message">chore(deps-dev): bump eslint-plugin-jsdoc from 37.7.1 to 37.9.4
-
-Bumps [eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc) from 37.7.1 to 37.9.4.
-- [Release notes](https://github.com/gajus/eslint-plugin-jsdoc/releases)
-- [Commits](https://github.com/gajus/eslint-plugin-jsdoc/compare/v37.7.1...v37.9.4)
-
----
-updated-dependencies:
-- dependency-name: eslint-plugin-jsdoc
+- dependency-name: "@commitlint/cli"
   dependency-type: direct:development
   update-type: version-update:semver-minor
 ...
@@ -1352,23 +1273,102 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#da7cc42</div>
-                                        <div class="message">Merge pull request #322 from vinayakkulkarni/dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.12.1
+                                        <div class="sha">#71c9a50</div>
+                                        <div class="message">Merge pull request #328 from vinayakkulkarni/dependabot/npm_and_yarn/eslint-config-prettier-8.4.0
 
-chore(deps-dev): bump @typescript-eslint/eslint-plugin from 5.10.2 to 5.12.1</div>
+chore(deps-dev): bump eslint-config-prettier from 8.3.0 to 8.4.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#139dbad</div>
-                                        <div class="message">chore(deps-dev): bump @typescript-eslint/eslint-plugin
+                                        <div class="sha">#9bdf582</div>
+                                        <div class="message">chore(deps-dev): bump eslint-config-prettier from 8.3.0 to 8.4.0
 
-Bumps [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin) from 5.10.2 to 5.12.1.
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.12.1/packages/eslint-plugin)
+Bumps [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) from 8.3.0 to 8.4.0.
+- [Release notes](https://github.com/prettier/eslint-config-prettier/releases)
+- [Changelog](https://github.com/prettier/eslint-config-prettier/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/prettier/eslint-config-prettier/compare/v8.3.0...v8.4.0)
 
 ---
 updated-dependencies:
-- dependency-name: "@typescript-eslint/eslint-plugin"
+- dependency-name: eslint-config-prettier
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">vinayakkulkarni/v-skeletor</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e96e395</div>
+                                        <div class="message">Merge pull request #329 from vinayakkulkarni/dependabot/npm_and_yarn/lint-staged-12.3.4
+
+chore(deps-dev): bump lint-staged from 12.3.3 to 12.3.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da8c334</div>
+                                        <div class="message">chore(deps-dev): bump lint-staged from 12.3.3 to 12.3.4
+
+Bumps [lint-staged](https://github.com/okonet/lint-staged) from 12.3.3 to 12.3.4.
+- [Release notes](https://github.com/okonet/lint-staged/releases)
+- [Commits](https://github.com/okonet/lint-staged/compare/v12.3.3...v12.3.4)
+
+---
+updated-dependencies:
+- dependency-name: lint-staged
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">vinayakkulkarni/v-skeletor</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c83309b</div>
+                                        <div class="message">Merge pull request #330 from vinayakkulkarni/dependabot/npm_and_yarn/eslint-8.9.0
+
+chore(deps-dev): bump eslint from 8.8.0 to 8.9.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a7289f</div>
+                                        <div class="message">chore(deps-dev): bump eslint from 8.8.0 to 8.9.0
+
+Bumps [eslint](https://github.com/eslint/eslint) from 8.8.0 to 8.9.0.
+- [Release notes](https://github.com/eslint/eslint/releases)
+- [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/eslint/eslint/compare/v8.8.0...v8.9.0)
+
+---
+updated-dependencies:
+- dependency-name: eslint
   dependency-type: direct:development
   update-type: version-update:semver-minor
 ...
