@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="951" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="884" class="">
     <defs>
         <style/>
     </defs>
@@ -1161,7 +1161,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 35 edited files from 105 commits over last 2 days</small>
+                <small>estimation from 30 edited files from 105 commits over last 2 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1192,47 +1192,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">webzlodimir/vue-bottom-sheet</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">geospoc/ani-maps-heatmaps-dashboard</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0d1236a</div>
-                                        <div class="message">chore: update imports</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">geospoc/ani-maps-heatmaps-dashboard</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#95d914f</div>
-                                        <div class="message">perf: disable loading indicator</div>
+                                        <span class="repo">geospoc/ani-auth-middleware</span>
                                     </div>
                                 </div>
                             </section>
@@ -1245,17 +1205,19 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/s-offline</span>
+                                        <span class="repo">geospoc/ani-auth-middleware</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ed303c6</div>
-                                        <div class="message">Merge pull request #571 from vinayakkulkarni/dependabot/npm_and_yarn/shipjs-0.24.3</div>
+                                        <div class="sha">#c5291ef</div>
+                                        <div class="message">Merge pull request #1 from geospoc/dependabot/npm_and_yarn/shipjs-0.24.3
+
+chore(deps-dev): bump shipjs from 0.24.2 to 0.24.3</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#417ba9c</div>
+                                        <div class="sha">#76fd18e</div>
                                         <div class="message">chore(deps-dev): bump shipjs from 0.24.2 to 0.24.3
 
 Bumps [shipjs](https://github.com/algolia/shipjs) from 0.24.2 to 0.24.3.
@@ -1279,30 +1241,59 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm.061 3.073a4 4 0 10-5.123 0 6.004 6.004 0 00-3.431 5.142.75.75 0 001.498.07 4.5 4.5 0 018.99 0 .75.75 0 101.498-.07 6.005 6.005 0 00-3.432-5.142z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Added prashis as collaborator in
+                                        <span class="repo">geospoc/ani-auth-middleware</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/npm_and_yarn/types/node-17.0.19</span>
+                                        in
+                                        <span class="repo">geospoc/gqi-ola-maps-frontend</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/vinayakkulkarni.dev</span>
+                                        <span class="repo">geospoc/gqi-ola-maps-frontend</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#641f582</div>
-                                        <div class="message">Merge pull request #1099 from vinayakkulkarni/dependabot/npm_and_yarn/types/tailwindcss-3.0.9</div>
+                                        <div class="sha">#34b5a6a</div>
+                                        <div class="message">Merge pull request #191 from geospoc/dependabot/npm_and_yarn/types/node-17.0.19</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#cdf16b2</div>
-                                        <div class="message">chore(deps-dev): bump @types/tailwindcss from 3.0.8 to 3.0.9
+                                        <div class="sha">#0ecd3bb</div>
+                                        <div class="message">chore(deps-dev): bump @types/node from 17.0.18 to 17.0.19
 
-Bumps [@types/tailwindcss](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/tailwindcss) from 3.0.8 to 3.0.9.
+Bumps [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) from 17.0.18 to 17.0.19.
 - [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
-- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/tailwindcss)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
 
 ---
 updated-dependencies:
-- dependency-name: "@types/tailwindcss"
+- dependency-name: "@types/node"
   dependency-type: direct:development
   update-type: version-update:semver-patch
 ...
