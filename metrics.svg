@@ -36,19 +36,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -57,7 +57,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to  repositories
+                            Contributed to 195 repositories
                         </div>
                     </section>
                 </div>
@@ -83,13 +83,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 184 days
+                            Current streak 185 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
-                            Best streak 184 days
+                            Best streak 185 days
                         </div>
                         <h3 class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~96.66
+                            Average per day at ~96.55
                         </div>
                     </section>
                 </div>
@@ -1100,6 +1100,11 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,8 0,7 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,7 1.7,8 z"/>
                             </g>
+                            <g transform="translate(-3.4, 6.9245283018867925)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.0754716981132075 0,2.0754716981132075 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.0754716981132075 1.7,3.0754716981132075 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1114,7 +1119,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 194 edited files from 6812 commits</small>
+                <small>estimation from 194 edited files from 6821 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1156,7 +1161,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 31 edited files from 100 commits over last 1 day</small>
+                <small>estimation from 34 edited files from 104 commits over last 2 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1187,27 +1192,27 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/vinayakkulkarni.dev</span>
+                                        <span class="repo">vinayakkulkarni/s-offline</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6503e87</div>
-                                        <div class="message">Merge pull request #1093 from vinayakkulkarni/dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.12.1</div>
+                                        <div class="sha">#ed303c6</div>
+                                        <div class="message">Merge pull request #571 from vinayakkulkarni/dependabot/npm_and_yarn/shipjs-0.24.3</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1f5b8f4</div>
-                                        <div class="message">chore(deps-dev): bump @typescript-eslint/eslint-plugin
+                                        <div class="sha">#417ba9c</div>
+                                        <div class="message">chore(deps-dev): bump shipjs from 0.24.2 to 0.24.3
 
-Bumps [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin) from 5.12.0 to 5.12.1.
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.12.1/packages/eslint-plugin)
+Bumps [shipjs](https://github.com/algolia/shipjs) from 0.24.2 to 0.24.3.
+- [Release notes](https://github.com/algolia/shipjs/releases)
+- [Changelog](https://github.com/algolia/shipjs/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/algolia/shipjs/compare/v0.24.2...v0.24.3)
 
 ---
 updated-dependencies:
-- dependency-name: "@typescript-eslint/eslint-plugin"
+- dependency-name: shipjs
   dependency-type: direct:development
   update-type: version-update:semver-patch
 ...
@@ -1231,57 +1236,20 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a3d7ce3</div>
-                                        <div class="message">Merge pull request #1097 from vinayakkulkarni/dependabot/npm_and_yarn/node-fetch-2.6.7</div>
+                                        <div class="sha">#641f582</div>
+                                        <div class="message">Merge pull request #1099 from vinayakkulkarni/dependabot/npm_and_yarn/types/tailwindcss-3.0.9</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8853cb3</div>
-                                        <div class="message">fix(deps): bump node-fetch from 2.6.6 to 2.6.7
+                                        <div class="sha">#cdf16b2</div>
+                                        <div class="message">chore(deps-dev): bump @types/tailwindcss from 3.0.8 to 3.0.9
 
-Bumps [node-fetch](https://github.com/node-fetch/node-fetch) from 2.6.6 to 2.6.7.
-- [Release notes](https://github.com/node-fetch/node-fetch/releases)
-- [Commits](https://github.com/node-fetch/node-fetch/compare/v2.6.6...v2.6.7)
+Bumps [@types/tailwindcss](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/tailwindcss) from 3.0.8 to 3.0.9.
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/tailwindcss)
 
 ---
 updated-dependencies:
-- dependency-name: node-fetch
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/vinayakkulkarni.dev</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#70baa80</div>
-                                        <div class="message">Merge pull request #1092 from vinayakkulkarni/dependabot/npm_and_yarn/nuxtjs/color-mode-3.0.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e96ad56</div>
-                                        <div class="message">chore(deps-dev): bump @nuxtjs/color-mode from 3.0.0 to 3.0.1
-
-Bumps [@nuxtjs/color-mode](https://github.com/nuxt-community/color-mode-module) from 3.0.0 to 3.0.1.
-- [Release notes](https://github.com/nuxt-community/color-mode-module/releases)
-- [Changelog](https://github.com/nuxt-community/color-mode-module/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/nuxt-community/color-mode-module/compare/v3.0.0...v3.0.1)
-
----
-updated-dependencies:
-- dependency-name: "@nuxtjs/color-mode"
+- dependency-name: "@types/tailwindcss"
   dependency-type: direct:development
   update-type: version-update:semver-patch
 ...
@@ -1299,27 +1267,26 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/vinayakkulkarni.dev</span>
+                                        <span class="repo">geoql/expenses</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#60df4d4</div>
-                                        <div class="message">Merge pull request #1094 from vinayakkulkarni/dependabot/npm_and_yarn/netlify-cli-9.6.10</div>
+                                        <div class="sha">#5ab8740</div>
+                                        <div class="message">Merge pull request #528 from geoql/dependabot/npm_and_yarn/nuxt-windicss-2.2.6</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#21024ac</div>
-                                        <div class="message">chore(deps-dev): bump netlify-cli from 9.6.5 to 9.6.10
+                                        <div class="sha">#bd018ed</div>
+                                        <div class="message">chore(deps-dev): bump nuxt-windicss from 2.2.5 to 2.2.6
 
-Bumps [netlify-cli](https://github.com/netlify/cli) from 9.6.5 to 9.6.10.
-- [Release notes](https://github.com/netlify/cli/releases)
-- [Changelog](https://github.com/netlify/cli/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/netlify/cli/compare/v9.6.5...v9.6.10)
+Bumps [nuxt-windicss](https://github.com/windicss/nuxt-windicss) from 2.2.5 to 2.2.6.
+- [Release notes](https://github.com/windicss/nuxt-windicss/releases)
+- [Commits](https://github.com/windicss/nuxt-windicss/compare/v2.2.5...v2.2.6)
 
 ---
 updated-dependencies:
-- dependency-name: netlify-cli
+- dependency-name: nuxt-windicss
   dependency-type: direct:development
   update-type: version-update:semver-patch
 ...
@@ -1337,29 +1304,67 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/vinayakkulkarni.dev</span>
+                                        <span class="repo">geoql/expenses</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a7bab69</div>
+                                        <div class="message">Merge pull request #529 from geoql/dependabot/npm_and_yarn/stylelint-14.5.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b4da8fa</div>
+                                        <div class="message">chore(deps-dev): bump stylelint from 14.5.1 to 14.5.2
+
+Bumps [stylelint](https://github.com/stylelint/stylelint) from 14.5.1 to 14.5.2.
+- [Release notes](https://github.com/stylelint/stylelint/releases)
+- [Changelog](https://github.com/stylelint/stylelint/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/stylelint/stylelint/compare/14.5.1...14.5.2)
+
+---
+updated-dependencies:
+- dependency-name: stylelint
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">vinayakkulkarni/map-promisified</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3c86209</div>
-                                        <div class="message">Merge pull request #1095 from vinayakkulkarni/dependabot/npm_and_yarn/typescript-eslint/parser-5.12.1</div>
+                                        <div class="sha">#82fe251</div>
+                                        <div class="message">Merge pull request #267 from vinayakkulkarni/dependabot/npm_and_yarn/rollup-2.68.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#db6af2c</div>
-                                        <div class="message">chore(deps-dev): bump @typescript-eslint/parser from 5.12.0 to 5.12.1
+                                        <div class="sha">#721baba</div>
+                                        <div class="message">chore(deps-dev): bump rollup from 2.67.3 to 2.68.0
 
-Bumps [@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser) from 5.12.0 to 5.12.1.
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.12.1/packages/parser)
+Bumps [rollup](https://github.com/rollup/rollup) from 2.67.3 to 2.68.0.
+- [Release notes](https://github.com/rollup/rollup/releases)
+- [Changelog](https://github.com/rollup/rollup/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/rollup/rollup/compare/v2.67.3...v2.68.0)
 
 ---
 updated-dependencies:
-- dependency-name: "@typescript-eslint/parser"
+- dependency-name: rollup
   dependency-type: direct:development
-  update-type: version-update:semver-patch
+  update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
