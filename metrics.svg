@@ -37,19 +37,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -83,13 +83,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 185 days
+                            Current streak 186 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
-                            Best streak 185 days
+                            Best streak 186 days
                         </div>
                         <h3 class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~94.59
+                            Average per day at ~94.67
                         </div>
                     </section>
                 </div>
@@ -1105,6 +1105,11 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.910377358490566 0,2.910377358490566 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.910377358490566 1.7,3.910377358490566 z"/>
                             </g>
+                            <g transform="translate(-5.1, 7.4575471698113205)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5424528301886795 0,2.5424528301886795 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5424528301886795 1.7,3.5424528301886795 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1119,7 +1124,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 194 edited files from 6879 commits</small>
+                <small>estimation from 194 edited files from 6911 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1161,7 +1166,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 40 edited files from 93 commits over last 1 day</small>
+                <small>estimation from 40 edited files from 96 commits over last 1 day</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1218,26 +1223,27 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/janak</span>
+                                        <span class="repo">vinayakkulkarni/v-github-icon</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#53ba757</div>
-                                        <div class="message">Merge pull request #338 from vinayakkulkarni/dependabot/npm_and_yarn/types/node-17.0.21</div>
+                                        <div class="sha">#c798541</div>
+                                        <div class="message">Merge pull request #739 from vinayakkulkarni/dependabot/npm_and_yarn/babel/preset-env-7.16.11</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9e32858</div>
-                                        <div class="message">chore(deps-dev): bump @types/node from 17.0.18 to 17.0.21
+                                        <div class="sha">#9cbb43a</div>
+                                        <div class="message">chore(deps-dev): bump @babel/preset-env from 7.16.8 to 7.16.11
 
-Bumps [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) from 17.0.18 to 17.0.21.
-- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
-- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
+Bumps [@babel/preset-env](https://github.com/babel/babel/tree/HEAD/packages/babel-preset-env) from 7.16.8 to 7.16.11.
+- [Release notes](https://github.com/babel/babel/releases)
+- [Changelog](https://github.com/babel/babel/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/babel/babel/commits/v7.16.11/packages/babel-preset-env)
 
 ---
 updated-dependencies:
-- dependency-name: "@types/node"
+- dependency-name: "@babel/preset-env"
   dependency-type: direct:development
   update-type: version-update:semver-patch
 ...
@@ -1255,23 +1261,61 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/janak</span>
+                                        <span class="repo">vinayakkulkarni/v-github-icon</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a27a6d3</div>
-                                        <div class="message">Merge pull request #337 from vinayakkulkarni/dependabot/npm_and_yarn/shipjs-0.24.3</div>
+                                        <div class="sha">#ac3602a</div>
+                                        <div class="message">Merge pull request #772 from vinayakkulkarni/dependabot/npm_and_yarn/sass-1.49.9</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#dfbae4e</div>
-                                        <div class="message">chore(deps-dev): bump shipjs from 0.24.2 to 0.24.3
+                                        <div class="sha">#86dd8c9</div>
+                                        <div class="message">chore(deps-dev): bump sass from 1.49.0 to 1.49.9
 
-Bumps [shipjs](https://github.com/algolia/shipjs) from 0.24.2 to 0.24.3.
+Bumps [sass](https://github.com/sass/dart-sass) from 1.49.0 to 1.49.9.
+- [Release notes](https://github.com/sass/dart-sass/releases)
+- [Changelog](https://github.com/sass/dart-sass/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/sass/dart-sass/compare/1.49.0...1.49.9)
+
+---
+updated-dependencies:
+- dependency-name: sass
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">vinayakkulkarni/v-github-icon</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#73894fc</div>
+                                        <div class="message">Merge pull request #773 from vinayakkulkarni/dependabot/npm_and_yarn/shipjs-0.24.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#16d3c1d</div>
+                                        <div class="message">chore(deps-dev): bump shipjs from 0.24.1 to 0.24.3
+
+Bumps [shipjs](https://github.com/algolia/shipjs) from 0.24.1 to 0.24.3.
 - [Release notes](https://github.com/algolia/shipjs/releases)
 - [Changelog](https://github.com/algolia/shipjs/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/algolia/shipjs/compare/v0.24.2...v0.24.3)
+- [Commits](https://github.com/algolia/shipjs/compare/v0.24.1...v0.24.3)
 
 ---
 updated-dependencies:
@@ -1299,22 +1343,23 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9673a0d</div>
-                                        <div class="message">Merge pull request #766 from vinayakkulkarni/dependabot/github_actions/actions/setup-node-3</div>
+                                        <div class="sha">#bdc05f6</div>
+                                        <div class="message">Merge pull request #774 from vinayakkulkarni/dependabot/npm_and_yarn/rollup/plugin-commonjs-21.0.2</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7a9c533</div>
-                                        <div class="message">fix(deps): bump actions/setup-node from 2.5.1 to 3
+                                        <div class="sha">#23ea06a</div>
+                                        <div class="message">chore(deps-dev): bump @rollup/plugin-commonjs from 21.0.1 to 21.0.2
 
-Bumps [actions/setup-node](https://github.com/actions/setup-node) from 2.5.1 to 3.
-- [Release notes](https://github.com/actions/setup-node/releases)
-- [Commits](https://github.com/actions/setup-node/compare/v2.5.1...v3)
+Bumps [@rollup/plugin-commonjs](https://github.com/rollup/plugins/tree/HEAD/packages/commonjs) from 21.0.1 to 21.0.2.
+- [Release notes](https://github.com/rollup/plugins/releases)
+- [Changelog](https://github.com/rollup/plugins/blob/master/packages/commonjs/CHANGELOG.md)
+- [Commits](https://github.com/rollup/plugins/commits/commonjs-v21.0.2/packages/commonjs)
 
 ---
 updated-dependencies:
-- dependency-name: actions/setup-node
-  dependency-type: direct:production
-  update-type: version-update:semver-major
+- dependency-name: "@rollup/plugin-commonjs"
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
@@ -1336,60 +1381,22 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6e95f03</div>
-                                        <div class="message">Merge pull request #767 from vinayakkulkarni/dependabot/npm_and_yarn/typescript-4.6.2</div>
+                                        <div class="sha">#adffe6e</div>
+                                        <div class="message">Merge pull request #775 from vinayakkulkarni/dependabot/npm_and_yarn/eslint-plugin-jsdoc-37.9.6</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#aa74b96</div>
-                                        <div class="message">chore(deps-dev): bump typescript from 4.5.4 to 4.6.2
+                                        <div class="sha">#6bc861e</div>
+                                        <div class="message">chore(deps-dev): bump eslint-plugin-jsdoc from 37.6.1 to 37.9.6
 
-Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.5.4 to 4.6.2.
-- [Release notes](https://github.com/Microsoft/TypeScript/releases)
-- [Commits](https://github.com/Microsoft/TypeScript/compare/v4.5.4...v4.6.2)
+Bumps [eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc) from 37.6.1 to 37.9.6.
+- [Release notes](https://github.com/gajus/eslint-plugin-jsdoc/releases)
+- [Commits](https://github.com/gajus/eslint-plugin-jsdoc/compare/v37.6.1...v37.9.6)
 
 ---
 updated-dependencies:
-- dependency-name: typescript
+- dependency-name: eslint-plugin-jsdoc
   dependency-type: direct:development
   update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/v-github-icon</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8032546</div>
-                                        <div class="message">Merge pull request #768 from vinayakkulkarni/dependabot/github_actions/actions/checkout-3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cdf32d5</div>
-                                        <div class="message">fix(deps): bump actions/checkout from 2 to 3
-
-Bumps [actions/checkout](https://github.com/actions/checkout) from 2 to 3.
-- [Release notes](https://github.com/actions/checkout/releases)
-- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/actions/checkout/compare/v2...v3)
-
----
-updated-dependencies:
-- dependency-name: actions/checkout
-  dependency-type: direct:production
-  update-type: version-update:semver-major
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
