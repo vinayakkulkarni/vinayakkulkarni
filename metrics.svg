@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="938" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1004" class="">
     <defs>
         <style/>
     </defs>
@@ -1092,7 +1092,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 194 edited files from 6965 commits</small>
+                <small>estimation from 194 edited files from 6969 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1191,7 +1191,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">twpayne/chezmoi</span>
+                                        <span class="repo">opengeospatial/geoparquet</span>
                                     </div>
                                 </div>
                             </section>
@@ -1203,15 +1203,35 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">geospoc/ani-routing-dashboard</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">vinayakkulkarni/v-image</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8f460f7</div>
-                                        <div class="message">revert: cache `npm` in `dev` &amp; `test` CD</div>
+                                        <div class="sha">#f6f146d</div>
+                                        <div class="message">Merge pull request #792 from vinayakkulkarni/dependabot/npm_and_yarn/eslint-config-prettier-8.5.0
+
+chore(deps-dev): bump eslint-config-prettier from 8.3.0 to 8.5.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8da01d4</div>
+                                        <div class="message">chore(deps-dev): bump eslint-config-prettier from 8.3.0 to 8.5.0
+
+Bumps [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) from 8.3.0 to 8.5.0.
+- [Release notes](https://github.com/prettier/eslint-config-prettier/releases)
+- [Changelog](https://github.com/prettier/eslint-config-prettier/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/prettier/eslint-config-prettier/compare/v8.3.0...v8.5.0)
+
+---
+updated-dependencies:
+- dependency-name: eslint-config-prettier
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1223,15 +1243,34 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">geospoc/ani-routing-dashboard</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">vinayakkulkarni/v-image</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f601c4a</div>
-                                        <div class="message">chore(deps): add `@sentry/tracing` package</div>
+                                        <div class="sha">#516ff5c</div>
+                                        <div class="message">Merge pull request #793 from vinayakkulkarni/dependabot/npm_and_yarn/lint-staged-12.3.5
+
+chore(deps-dev): bump lint-staged from 12.3.4 to 12.3.5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cfa065c</div>
+                                        <div class="message">chore(deps-dev): bump lint-staged from 12.3.4 to 12.3.5
+
+Bumps [lint-staged](https://github.com/okonet/lint-staged) from 12.3.4 to 12.3.5.
+- [Release notes](https://github.com/okonet/lint-staged/releases)
+- [Commits](https://github.com/okonet/lint-staged/compare/v12.3.4...v12.3.5)
+
+---
+updated-dependencies:
+- dependency-name: lint-staged
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1243,15 +1282,34 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">geospoc/ani-routing-dashboard</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">vinayakkulkarni/v-image</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#aa5b8ae</div>
-                                        <div class="message">fix: disable caching of node_modules for `dev` &amp; `test`</div>
+                                        <div class="sha">#d41ec0d</div>
+                                        <div class="message">Merge pull request #795 from vinayakkulkarni/dependabot/npm_and_yarn/eslint-plugin-jsdoc-37.9.7
+
+chore(deps-dev): bump eslint-plugin-jsdoc from 37.9.5 to 37.9.7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d3d713</div>
+                                        <div class="message">chore(deps-dev): bump eslint-plugin-jsdoc from 37.9.5 to 37.9.7
+
+Bumps [eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc) from 37.9.5 to 37.9.7.
+- [Release notes](https://github.com/gajus/eslint-plugin-jsdoc/releases)
+- [Commits](https://github.com/gajus/eslint-plugin-jsdoc/compare/v37.9.5...v37.9.7)
+
+---
+updated-dependencies:
+- dependency-name: eslint-plugin-jsdoc
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1263,15 +1321,35 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">geospoc/ani-routing-dashboard</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">vinayakkulkarni/v-image</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c71bbc1</div>
-                                        <div class="message">test: disable `build` settings in `nuxt.config`</div>
+                                        <div class="sha">#dd95db5</div>
+                                        <div class="message">Merge pull request #796 from vinayakkulkarni/dependabot/npm_and_yarn/rollup-2.70.0
+
+chore(deps-dev): bump rollup from 2.68.0 to 2.70.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab4f046</div>
+                                        <div class="message">chore(deps-dev): bump rollup from 2.68.0 to 2.70.0
+
+Bumps [rollup](https://github.com/rollup/rollup) from 2.68.0 to 2.70.0.
+- [Release notes](https://github.com/rollup/rollup/releases)
+- [Changelog](https://github.com/rollup/rollup/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/rollup/rollup/compare/v2.68.0...v2.70.0)
+
+---
+updated-dependencies:
+- dependency-name: rollup
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
