@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1034" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="884" class="">
     <defs>
         <style/>
     </defs>
@@ -49,7 +49,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1151,7 +1151,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 0 edited files from 0 commits over last 2 days</small>
+                <small>estimation from 2 edited files from 83 commits over last 1 day</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1178,38 +1178,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">geospoc/ani-data-telemetry-kafka-consumer-api</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c0ec6d7</div>
-                                        <div class="message">Merge pull request #116 from geospoc/dependabot/npm_and_yarn/shipjs-0.24.3
-
-chore(deps-dev): bump shipjs from 0.24.2 to 0.24.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b26f7c2</div>
-                                        <div class="message">chore(deps-dev): bump shipjs from 0.24.2 to 0.24.3
-
-Bumps [shipjs](https://github.com/algolia/shipjs) from 0.24.2 to 0.24.3.
-- [Release notes](https://github.com/algolia/shipjs/releases)
-- [Changelog](https://github.com/algolia/shipjs/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/algolia/shipjs/compare/v0.24.2...v0.24.3)
-
----
-updated-dependencies:
-- dependency-name: shipjs
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.15.0</span>
+                                        in
+                                        <span class="repo">geospoc/ani-maps-hypercharger-map-frontend</span>
                                     </div>
                                 </div>
                             </section>
@@ -1222,22 +1198,20 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">geospoc/ani-data-telemetry-kafka-consumer-api</span>
+                                        <span class="repo">geospoc/ani-maps-hypercharger-map-frontend</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a6a4e9c</div>
-                                        <div class="message">Merge pull request #108 from geospoc/dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.15.0
-
-chore(deps-dev): bump @typescript-eslint/eslint-plugin from 5.10.2 to 5.15.0</div>
+                                        <div class="sha">#2226fc5</div>
+                                        <div class="message">Merge pull request #116 from geospoc/dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.15.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e1f4720</div>
+                                        <div class="sha">#29e54d9</div>
                                         <div class="message">chore(deps-dev): bump @typescript-eslint/eslint-plugin
 
-Bumps [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin) from 5.10.2 to 5.15.0.
+Bumps [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin) from 5.13.0 to 5.15.0.
 - [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
 - [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md)
 - [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.15.0/packages/eslint-plugin)
@@ -1262,69 +1236,27 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">geospoc/ani-data-telemetry-kafka-consumer-api</span>
+                                        <span class="repo">geospoc/gqi-common-news-widget</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a36a82f</div>
-                                        <div class="message">Merge pull request #79 from geospoc/dependabot/npm_and_yarn/dotenv-16.0.0
-
-chore(deps-dev): bump dotenv from 15.0.0 to 16.0.0</div>
+                                        <div class="sha">#3a36a1d</div>
+                                        <div class="message">Merge pull request #210 from geospoc/dependabot/npm_and_yarn/babel/core-7.17.8</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#09388a0</div>
-                                        <div class="message">chore(deps-dev): bump dotenv from 15.0.0 to 16.0.0
+                                        <div class="sha">#7030656</div>
+                                        <div class="message">chore(deps-dev): bump @babel/core from 7.16.7 to 7.17.8
 
-Bumps [dotenv](https://github.com/motdotla/dotenv) from 15.0.0 to 16.0.0.
-- [Release notes](https://github.com/motdotla/dotenv/releases)
-- [Changelog](https://github.com/motdotla/dotenv/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/motdotla/dotenv/compare/v15.0.0...v16.0.0)
+Bumps [@babel/core](https://github.com/babel/babel/tree/HEAD/packages/babel-core) from 7.16.7 to 7.17.8.
+- [Release notes](https://github.com/babel/babel/releases)
+- [Changelog](https://github.com/babel/babel/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/babel/babel/commits/v7.17.8/packages/babel-core)
 
 ---
 updated-dependencies:
-- dependency-name: dotenv
-  dependency-type: direct:development
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">geospoc/ani-data-telemetry-kafka-consumer-api</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2e20261</div>
-                                        <div class="message">Merge pull request #86 from geospoc/dependabot/npm_and_yarn/commitlint/config-conventional-16.2.1
-
-chore(deps-dev): bump @commitlint/config-conventional from 16.0.0 to 16.2.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d649a41</div>
-                                        <div class="message">chore(deps-dev): bump @commitlint/config-conventional
-
-Bumps [@commitlint/config-conventional](https://github.com/conventional-changelog/commitlint/tree/HEAD/@commitlint/config-conventional) from 16.0.0 to 16.2.1.
-- [Release notes](https://github.com/conventional-changelog/commitlint/releases)
-- [Changelog](https://github.com/conventional-changelog/commitlint/blob/master/@commitlint/config-conventional/CHANGELOG.md)
-- [Commits](https://github.com/conventional-changelog/commitlint/commits/v16.2.1/@commitlint/config-conventional)
-
----
-updated-dependencies:
-- dependency-name: "@commitlint/config-conventional"
+- dependency-name: "@babel/core"
   dependency-type: direct:development
   update-type: version-update:semver-minor
 ...
@@ -1338,37 +1270,30 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">geospoc/ani-data-telemetry-kafka-consumer-api</span>
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/npm_and_yarn/babel/core-7.17.8</span>
+                                        in
+                                        <span class="repo">geospoc/gqi-common-news-widget</span>
                                     </div>
                                 </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8c3ffc0</div>
-                                        <div class="message">Merge pull request #113 from geospoc/dependabot/npm_and_yarn/typescript-4.6.2
-
-chore(deps-dev): bump typescript from 4.5.5 to 4.6.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7027427</div>
-                                        <div class="message">chore(deps-dev): bump typescript from 4.5.5 to 4.6.2
-
-Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.5.5 to 4.6.2.
-- [Release notes](https://github.com/Microsoft/TypeScript/releases)
-- [Commits](https://github.com/Microsoft/TypeScript/compare/v4.5.5...v4.6.2)
-
----
-updated-dependencies:
-- dependency-name: typescript
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/npm_and_yarn/typescript-eslint/parser-5.15.0</span>
+                                        in
+                                        <span class="repo">geospoc/ani-maps-hypercharger-map-frontend</span>
                                     </div>
                                 </div>
                             </section>
