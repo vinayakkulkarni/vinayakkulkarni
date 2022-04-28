@@ -57,7 +57,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 195 repositories
+                            Contributed to  repositories
                         </div>
                     </section>
                 </div>
@@ -1174,14 +1174,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 16.1kb of code in 51 edited files across 94 commits over last 3 days</small>
+                <small>estimation from 16kb of code in 49 edited files across 96 commits over last 3 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="378.6627043090639" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="378.6627043090639" y="0" width="81.33729569093612" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="414.3739837398374" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="414.3739837398374" y="0" width="45.6260162601626" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1194,7 +1194,7 @@
                             </div>
                             <small>
                                 <div>13 lines</div>
-                                <div>82.32%</div>
+                                <div>90.08%</div>
                             </small>
                         </div>
                     </section>
@@ -1207,8 +1207,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>6 lines</div>
-                                <div>17.68%</div>
+                                <div>3 lines</div>
+                                <div>9.92%</div>
                             </small>
                         </div>
                     </section>
@@ -1231,70 +1231,30 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/vinayakkulkarni.dev</span>
+                                        <span class="repo">geospoc/ani-maps-documentation-api</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0856757</div>
-                                        <div class="message">Merge pull request #1199 from vinayakkulkarni/dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.21.0
+                                        <div class="sha">#60516c5</div>
+                                        <div class="message">Merge pull request #4 from geospoc/dependabot/npm_and_yarn/strapi/plugin-i18n-4.1.9
 
-chore(deps-dev): bump @typescript-eslint/eslint-plugin from 5.20.0 to 5.21.0</div>
+fix(deps): bump @strapi/plugin-i18n from 4.1.8 to 4.1.9</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#21bd8a0</div>
-                                        <div class="message">chore(deps-dev): bump @typescript-eslint/eslint-plugin
+                                        <div class="sha">#2e21503</div>
+                                        <div class="message">fix(deps): bump @strapi/plugin-i18n from 4.1.8 to 4.1.9
 
-Bumps [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin) from 5.20.0 to 5.21.0.
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.21.0/packages/eslint-plugin)
+Bumps [@strapi/plugin-i18n](https://github.com/strapi/strapi/tree/HEAD/packages/plugins/i18n) from 4.1.8 to 4.1.9.
+- [Release notes](https://github.com/strapi/strapi/releases)
+- [Commits](https://github.com/strapi/strapi/commits/v4.1.9/packages/plugins/i18n)
 
 ---
 updated-dependencies:
-- dependency-name: "@typescript-eslint/eslint-plugin"
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/vinayakkulkarni.dev</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a53ce3e</div>
-                                        <div class="message">Merge pull request #1202 from vinayakkulkarni/dependabot/github_actions/wearerequired/lint-action-2
-
-fix(deps): bump wearerequired/lint-action from 1 to 2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6bcb403</div>
-                                        <div class="message">fix(deps): bump wearerequired/lint-action from 1 to 2
-
-Bumps [wearerequired/lint-action](https://github.com/wearerequired/lint-action) from 1 to 2.
-- [Release notes](https://github.com/wearerequired/lint-action/releases)
-- [Commits](https://github.com/wearerequired/lint-action/compare/v1...v2)
-
----
-updated-dependencies:
-- dependency-name: wearerequired/lint-action
+- dependency-name: "@strapi/plugin-i18n"
   dependency-type: direct:production
-  update-type: version-update:semver-major
+  update-type: version-update:semver-patch
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
@@ -1310,29 +1270,68 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/vinayakkulkarni.dev</span>
+                                        <span class="repo">geospoc/ani-maps-documentation-api</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#14b949a</div>
-                                        <div class="message">Merge pull request #1203 from vinayakkulkarni/dependabot/npm_and_yarn/stylelint-14.8.0
+                                        <div class="sha">#25b70ed</div>
+                                        <div class="message">Merge pull request #5 from geospoc/dependabot/npm_and_yarn/strapi/strapi-4.1.9
 
-chore(deps-dev): bump stylelint from 14.7.1 to 14.8.0</div>
+fix(deps): bump @strapi/strapi from 4.1.8 to 4.1.9</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d9c7f88</div>
-                                        <div class="message">chore(deps-dev): bump stylelint from 14.7.1 to 14.8.0
+                                        <div class="sha">#68a2017</div>
+                                        <div class="message">fix(deps): bump @strapi/strapi from 4.1.8 to 4.1.9
 
-Bumps [stylelint](https://github.com/stylelint/stylelint) from 14.7.1 to 14.8.0.
-- [Release notes](https://github.com/stylelint/stylelint/releases)
-- [Changelog](https://github.com/stylelint/stylelint/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/stylelint/stylelint/compare/14.7.1...14.8.0)
+Bumps [@strapi/strapi](https://github.com/strapi/strapi) from 4.1.8 to 4.1.9.
+- [Release notes](https://github.com/strapi/strapi/releases)
+- [Commits](https://github.com/strapi/strapi/compare/v4.1.8...v4.1.9)
 
 ---
 updated-dependencies:
-- dependency-name: stylelint
+- dependency-name: "@strapi/strapi"
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">vinayakkulkarni/janak</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#75d9155</div>
+                                        <div class="message">Merge pull request #391 from vinayakkulkarni/dependabot/npm_and_yarn/typescript-eslint/parser-5.21.0
+
+chore(deps-dev): bump @typescript-eslint/parser from 5.20.0 to 5.21.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f49b871</div>
+                                        <div class="message">chore(deps-dev): bump @typescript-eslint/parser from 5.20.0 to 5.21.0
+
+Bumps [@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser) from 5.20.0 to 5.21.0.
+- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
+- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md)
+- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.21.0/packages/parser)
+
+---
+updated-dependencies:
+- dependency-name: "@typescript-eslint/parser"
   dependency-type: direct:development
   update-type: version-update:semver-minor
 ...
@@ -1350,31 +1349,30 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/vinayakkulkarni.dev</span>
+                                        <span class="repo">vinayakkulkarni/janak</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ef7653a</div>
-                                        <div class="message">Merge pull request #1196 from vinayakkulkarni/dependabot/npm_and_yarn/eslint-8.14.0
+                                        <div class="sha">#c673734</div>
+                                        <div class="message">Merge pull request #392 from vinayakkulkarni/dependabot/npm_and_yarn/lint-staged-12.4.1
 
-chore(deps-dev): bump eslint from 8.13.0 to 8.14.0</div>
+chore(deps-dev): bump lint-staged from 12.4.0 to 12.4.1</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c9a4b1c</div>
-                                        <div class="message">chore(deps-dev): bump eslint from 8.13.0 to 8.14.0
+                                        <div class="sha">#6953e33</div>
+                                        <div class="message">chore(deps-dev): bump lint-staged from 12.4.0 to 12.4.1
 
-Bumps [eslint](https://github.com/eslint/eslint) from 8.13.0 to 8.14.0.
-- [Release notes](https://github.com/eslint/eslint/releases)
-- [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/eslint/eslint/compare/v8.13.0...v8.14.0)
+Bumps [lint-staged](https://github.com/okonet/lint-staged) from 12.4.0 to 12.4.1.
+- [Release notes](https://github.com/okonet/lint-staged/releases)
+- [Commits](https://github.com/okonet/lint-staged/compare/v12.4.0...v12.4.1)
 
 ---
 updated-dependencies:
-- dependency-name: eslint
+- dependency-name: lint-staged
   dependency-type: direct:development
-  update-type: version-update:semver-minor
+  update-type: version-update:semver-patch
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
@@ -1390,28 +1388,28 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/vinayakkulkarni.dev</span>
+                                        <span class="repo">vinayakkulkarni/janak</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7ced298</div>
-                                        <div class="message">Merge pull request #1198 from vinayakkulkarni/dependabot/npm_and_yarn/eslint-plugin-vue-8.7.1
+                                        <div class="sha">#1b286a2</div>
+                                        <div class="message">Merge pull request #394 from vinayakkulkarni/dependabot/npm_and_yarn/eslint-plugin-jsdoc-39.2.9
 
-chore(deps-dev): bump eslint-plugin-vue from 8.7.0 to 8.7.1</div>
+chore(deps-dev): bump eslint-plugin-jsdoc from 39.2.7 to 39.2.9</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#6def5d6</div>
-                                        <div class="message">chore(deps-dev): bump eslint-plugin-vue from 8.7.0 to 8.7.1
+                                        <div class="sha">#c16ffca</div>
+                                        <div class="message">chore(deps-dev): bump eslint-plugin-jsdoc from 39.2.7 to 39.2.9
 
-Bumps [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) from 8.7.0 to 8.7.1.
-- [Release notes](https://github.com/vuejs/eslint-plugin-vue/releases)
-- [Commits](https://github.com/vuejs/eslint-plugin-vue/compare/v8.7.0...v8.7.1)
+Bumps [eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc) from 39.2.7 to 39.2.9.
+- [Release notes](https://github.com/gajus/eslint-plugin-jsdoc/releases)
+- [Commits](https://github.com/gajus/eslint-plugin-jsdoc/compare/v39.2.7...v39.2.9)
 
 ---
 updated-dependencies:
-- dependency-name: eslint-plugin-vue
+- dependency-name: eslint-plugin-jsdoc
   dependency-type: direct:development
   update-type: version-update:semver-patch
 ...
