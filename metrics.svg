@@ -1204,28 +1204,28 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">geoql/expenses</span>
+                                        <span class="repo">vinayakkulkarni/janak</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#65c38a9</div>
-                                        <div class="message">Merge pull request #693 from geoql/dependabot/npm_and_yarn/typescript-4.6.4
+                                        <div class="sha">#8714367</div>
+                                        <div class="message">Merge pull request #398 from vinayakkulkarni/dependabot/npm_and_yarn/types/node-17.0.30
 
-chore(deps-dev): bump typescript from 4.6.3 to 4.6.4</div>
+chore(deps-dev): bump @types/node from 17.0.29 to 17.0.30</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d1edf9d</div>
-                                        <div class="message">chore(deps-dev): bump typescript from 4.6.3 to 4.6.4
+                                        <div class="sha">#7abaea7</div>
+                                        <div class="message">chore(deps-dev): bump @types/node from 17.0.29 to 17.0.30
 
-Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.6.3 to 4.6.4.
-- [Release notes](https://github.com/Microsoft/TypeScript/releases)
-- [Commits](https://github.com/Microsoft/TypeScript/compare/v4.6.3...v4.6.4)
+Bumps [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) from 17.0.29 to 17.0.30.
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
 
 ---
 updated-dependencies:
-- dependency-name: typescript
+- dependency-name: "@types/node"
   dependency-type: direct:development
   update-type: version-update:semver-patch
 ...
@@ -1243,69 +1243,29 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">geoql/expenses</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3ae5a19</div>
-                                        <div class="message">Merge pull request #694 from geoql/dependabot/npm_and_yarn/commitlint/cli-16.2.4
-
-chore(deps-dev): bump @commitlint/cli from 16.2.3 to 16.2.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4faa027</div>
-                                        <div class="message">chore(deps-dev): bump @commitlint/cli from 16.2.3 to 16.2.4
-
-Bumps [@commitlint/cli](https://github.com/conventional-changelog/commitlint/tree/HEAD/@commitlint/cli) from 16.2.3 to 16.2.4.
-- [Release notes](https://github.com/conventional-changelog/commitlint/releases)
-- [Changelog](https://github.com/conventional-changelog/commitlint/blob/master/@commitlint/cli/CHANGELOG.md)
-- [Commits](https://github.com/conventional-changelog/commitlint/commits/v16.2.4/@commitlint/cli)
-
----
-updated-dependencies:
-- dependency-name: "@commitlint/cli"
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">geoql/v-mapkit.js</span>
+                                        <span class="repo">vinayakkulkarni/v-spotlight</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9d8f88a</div>
-                                        <div class="message">Merge pull request #486 from geoql/dependabot/npm_and_yarn/typescript-eslint/parser-5.21.0
+                                        <div class="sha">#79c252a</div>
+                                        <div class="message">Merge pull request #563 from vinayakkulkarni/dependabot/npm_and_yarn/babel/preset-env-7.17.10
 
-chore(deps-dev): bump @typescript-eslint/parser from 5.20.0 to 5.21.0</div>
+chore(deps-dev): bump @babel/preset-env from 7.16.11 to 7.17.10</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1a124b2</div>
-                                        <div class="message">chore(deps-dev): bump @typescript-eslint/parser from 5.20.0 to 5.21.0
+                                        <div class="sha">#c48eb30</div>
+                                        <div class="message">chore(deps-dev): bump @babel/preset-env from 7.16.11 to 7.17.10
 
-Bumps [@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser) from 5.20.0 to 5.21.0.
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.21.0/packages/parser)
+Bumps [@babel/preset-env](https://github.com/babel/babel/tree/HEAD/packages/babel-preset-env) from 7.16.11 to 7.17.10.
+- [Release notes](https://github.com/babel/babel/releases)
+- [Changelog](https://github.com/babel/babel/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/babel/babel/commits/v7.17.10/packages/babel-preset-env)
 
 ---
 updated-dependencies:
-- dependency-name: "@typescript-eslint/parser"
+- dependency-name: "@babel/preset-env"
   dependency-type: direct:development
   update-type: version-update:semver-minor
 ...
@@ -1323,31 +1283,30 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">geoql/v-mapkit.js</span>
+                                        <span class="repo">vinayakkulkarni/map-my-google-photos</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#28dfae4</div>
-                                        <div class="message">Merge pull request #485 from geoql/dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.21.0
+                                        <div class="sha">#6814ef3</div>
+                                        <div class="message">Merge pull request #495 from vinayakkulkarni/dependabot/npm_and_yarn/tar-6.1.11
 
-chore(deps-dev): bump @typescript-eslint/eslint-plugin from 5.20.0 to 5.21.0</div>
+fix(deps): bump tar from 6.1.8 to 6.1.11</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#818eb57</div>
-                                        <div class="message">chore(deps-dev): bump @typescript-eslint/eslint-plugin
+                                        <div class="sha">#cde87a2</div>
+                                        <div class="message">fix(deps): bump tar from 6.1.8 to 6.1.11
 
-Bumps [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin) from 5.20.0 to 5.21.0.
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.21.0/packages/eslint-plugin)
+Bumps [tar](https://github.com/npm/node-tar) from 6.1.8 to 6.1.11.
+- [Release notes](https://github.com/npm/node-tar/releases)
+- [Changelog](https://github.com/npm/node-tar/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/npm/node-tar/compare/v6.1.8...v6.1.11)
 
 ---
 updated-dependencies:
-- dependency-name: "@typescript-eslint/eslint-plugin"
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
+- dependency-name: tar
+  dependency-type: indirect
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
@@ -1363,30 +1322,67 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">geoql/v-mapkit.js</span>
+                                        <span class="repo">vinayakkulkarni/map-my-google-photos</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#00f10b0</div>
-                                        <div class="message">Merge pull request #484 from geoql/dependabot/github_actions/wearerequired/lint-action-2
+                                        <div class="sha">#4916dc3</div>
+                                        <div class="message">Merge pull request #455 from vinayakkulkarni/dependabot/npm_and_yarn/follow-redirects-1.14.8
 
-fix(deps): bump wearerequired/lint-action from 1 to 2</div>
+fix(deps): bump follow-redirects from 1.14.1 to 1.14.8</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0510602</div>
-                                        <div class="message">fix(deps): bump wearerequired/lint-action from 1 to 2
+                                        <div class="sha">#ff1d79c</div>
+                                        <div class="message">fix(deps): bump follow-redirects from 1.14.1 to 1.14.8
 
-Bumps [wearerequired/lint-action](https://github.com/wearerequired/lint-action) from 1 to 2.
-- [Release notes](https://github.com/wearerequired/lint-action/releases)
-- [Commits](https://github.com/wearerequired/lint-action/compare/v1...v2)
+Bumps [follow-redirects](https://github.com/follow-redirects/follow-redirects) from 1.14.1 to 1.14.8.
+- [Release notes](https://github.com/follow-redirects/follow-redirects/releases)
+- [Commits](https://github.com/follow-redirects/follow-redirects/compare/v1.14.1...v1.14.8)
 
 ---
 updated-dependencies:
-- dependency-name: wearerequired/lint-action
-  dependency-type: direct:production
-  update-type: version-update:semver-major
+- dependency-name: follow-redirects
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">vinayakkulkarni/map-my-google-photos</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e327a53</div>
+                                        <div class="message">Merge pull request #474 from vinayakkulkarni/dependabot/npm_and_yarn/minimist-1.2.6
+
+fix(deps): bump minimist from 1.2.5 to 1.2.6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#47b8f26</div>
+                                        <div class="message">fix(deps): bump minimist from 1.2.5 to 1.2.6
+
+Bumps [minimist](https://github.com/substack/minimist) from 1.2.5 to 1.2.6.
+- [Release notes](https://github.com/substack/minimist/releases)
+- [Commits](https://github.com/substack/minimist/compare/1.2.5...1.2.6)
+
+---
+updated-dependencies:
+- dependency-name: minimist
+  dependency-type: indirect
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
