@@ -49,7 +49,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1164,14 +1164,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 811b of code in 9 edited files across 93 commits over last 5 days</small>
+                <small>estimation from 811b of code in 9 edited files across 94 commits over last 5 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="404.0938166311301" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="404.0938166311301" y="0" width="55.90618336886993" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="404.4491525423729" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="404.4491525423729" y="0" width="55.550847457627114" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1183,8 +1183,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>15 lines</div>
-                                <div>87.85%</div>
+                                <div>14 lines</div>
+                                <div>87.92%</div>
                             </small>
                         </div>
                     </section>
@@ -1198,7 +1198,7 @@
                             </div>
                             <small>
                                 <div>3 lines</div>
-                                <div>12.15%</div>
+                                <div>12.08%</div>
                             </small>
                         </div>
                     </section>
@@ -1213,6 +1213,122 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">vinayakkulkarni/mapbox-gl-interpolate-heatmap</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ec083f7</div>
+                                        <div class="message">Merge pull request #189 from vinayakkulkarni/dependabot/npm_and_yarn/rollup/plugin-node-resolve-13.3.0
+
+chore(deps-dev): bump @rollup/plugin-node-resolve from 13.2.1 to 13.3.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05c93c5</div>
+                                        <div class="message">chore(deps-dev): bump @rollup/plugin-node-resolve from 13.2.1 to 13.3.0
+
+Bumps [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/HEAD/packages/node-resolve) from 13.2.1 to 13.3.0.
+- [Release notes](https://github.com/rollup/plugins/releases)
+- [Changelog](https://github.com/rollup/plugins/blob/master/packages/node-resolve/CHANGELOG.md)
+- [Commits](https://github.com/rollup/plugins/commits/node-resolve-v13.3.0/packages/node-resolve)
+
+---
+updated-dependencies:
+- dependency-name: "@rollup/plugin-node-resolve"
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">vinayakkulkarni/mapbox-gl-interpolate-heatmap</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#95974a1</div>
+                                        <div class="message">Merge pull request #191 from vinayakkulkarni/dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.22.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd28810</div>
+                                        <div class="message">chore(deps-dev): bump @typescript-eslint/eslint-plugin
+
+Bumps [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin) from 5.21.0 to 5.22.0.
+- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
+- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md)
+- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.22.0/packages/eslint-plugin)
+
+---
+updated-dependencies:
+- dependency-name: "@typescript-eslint/eslint-plugin"
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">vinayakkulkarni/mapbox-gl-interpolate-heatmap</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5d909a9</div>
+                                        <div class="message">Merge pull request #190 from vinayakkulkarni/dependabot/npm_and_yarn/typescript-eslint/parser-5.22.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#521898a</div>
+                                        <div class="message">chore(deps-dev): bump @typescript-eslint/parser from 5.21.0 to 5.22.0
+
+Bumps [@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser) from 5.21.0 to 5.22.0.
+- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
+- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md)
+- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.22.0/packages/parser)
+
+---
+updated-dependencies:
+- dependency-name: "@typescript-eslint/parser"
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1286,125 +1402,6 @@ updated-dependencies:
 - dependency-name: rollup
   dependency-type: direct:development
   update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">geoql/v-mapkit.js</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f9a5e63</div>
-                                        <div class="message">Merge pull request #494 from geoql/dependabot/npm_and_yarn/stylelint-14.8.1
-
-chore(deps-dev): bump stylelint from 14.8.0 to 14.8.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d31c3f1</div>
-                                        <div class="message">chore(deps-dev): bump stylelint from 14.8.0 to 14.8.1
-
-Bumps [stylelint](https://github.com/stylelint/stylelint) from 14.8.0 to 14.8.1.
-- [Release notes](https://github.com/stylelint/stylelint/releases)
-- [Changelog](https://github.com/stylelint/stylelint/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/stylelint/stylelint/compare/14.8.0...14.8.1)
-
----
-updated-dependencies:
-- dependency-name: stylelint
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">geoql/v-mapkit.js</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b4d5cda</div>
-                                        <div class="message">Merge pull request #495 from geoql/dependabot/npm_and_yarn/typescript-4.6.4
-
-chore(deps-dev): bump typescript from 4.6.3 to 4.6.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#306f067</div>
-                                        <div class="message">chore(deps-dev): bump typescript from 4.6.3 to 4.6.4
-
-Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.6.3 to 4.6.4.
-- [Release notes](https://github.com/Microsoft/TypeScript/releases)
-- [Commits](https://github.com/Microsoft/TypeScript/compare/v4.6.3...v4.6.4)
-
----
-updated-dependencies:
-- dependency-name: typescript
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/v-tweakpane</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#33cfbf7</div>
-                                        <div class="message">Merge pull request #461 from vinayakkulkarni/dependabot/npm_and_yarn/commitlint/config-conventional-16.2.4
-
-chore(deps-dev): bump @commitlint/config-conventional from 16.2.1 to 16.2.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c952af6</div>
-                                        <div class="message">chore(deps-dev): bump @commitlint/config-conventional
-
-Bumps [@commitlint/config-conventional](https://github.com/conventional-changelog/commitlint/tree/HEAD/@commitlint/config-conventional) from 16.2.1 to 16.2.4.
-- [Release notes](https://github.com/conventional-changelog/commitlint/releases)
-- [Changelog](https://github.com/conventional-changelog/commitlint/blob/master/@commitlint/config-conventional/CHANGELOG.md)
-- [Commits](https://github.com/conventional-changelog/commitlint/commits/v16.2.4/@commitlint/config-conventional)
-
----
-updated-dependencies:
-- dependency-name: "@commitlint/config-conventional"
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
