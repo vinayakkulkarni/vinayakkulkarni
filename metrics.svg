@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1082" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="965" class="">
     <defs>
         <style/>
     </defs>
@@ -1142,7 +1142,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 331b of code in 9 edited files across 75 commits over last 3 days</small>
+                <small>estimation from 331b of code in 9 edited files across 73 commits over last 3 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1186,29 +1186,27 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">geoql/v-mapkit.js</span>
+                                        <span class="repo">vinayakkulkarni/v-offline</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#598557f</div>
-                                        <div class="message">Merge pull request #508 from geoql/dependabot/npm_and_yarn/typescript-eslint/parser-5.23.0
-
-chore(deps-dev): bump @typescript-eslint/parser from 5.22.0 to 5.23.0</div>
+                                        <div class="sha">#0a94f14</div>
+                                        <div class="message">Merge pull request #949 from vinayakkulkarni/dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.23.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#35f0059</div>
-                                        <div class="message">chore(deps-dev): bump @typescript-eslint/parser from 5.22.0 to 5.23.0
+                                        <div class="sha">#7244363</div>
+                                        <div class="message">chore(deps-dev): bump @typescript-eslint/eslint-plugin
 
-Bumps [@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser) from 5.22.0 to 5.23.0.
+Bumps [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin) from 5.22.0 to 5.23.0.
 - [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.23.0/packages/parser)
+- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md)
+- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.23.0/packages/eslint-plugin)
 
 ---
 updated-dependencies:
-- dependency-name: "@typescript-eslint/parser"
+- dependency-name: "@typescript-eslint/eslint-plugin"
   dependency-type: direct:development
   update-type: version-update:semver-minor
 ...
@@ -1222,38 +1220,30 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">geoql/expenses</span>
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.23.0</span>
+                                        in
+                                        <span class="repo">vinayakkulkarni/v-offline</span>
                                     </div>
                                 </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#41a537f</div>
-                                        <div class="message">Merge pull request #710 from geoql/dependabot/npm_and_yarn/typescript-eslint/parser-5.23.0
-
-chore(deps-dev): bump @typescript-eslint/parser from 5.22.0 to 5.23.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b1369d</div>
-                                        <div class="message">chore(deps-dev): bump @typescript-eslint/parser from 5.22.0 to 5.23.0
-
-Bumps [@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser) from 5.22.0 to 5.23.0.
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.23.0/packages/parser)
-
----
-updated-dependencies:
-- dependency-name: "@typescript-eslint/parser"
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/npm_and_yarn/types/node-17.0.33</span>
+                                        in
+                                        <span class="repo">vinayakkulkarni/v-offline</span>
                                     </div>
                                 </div>
                             </section>
@@ -1266,29 +1256,26 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">geoql/expenses</span>
+                                        <span class="repo">vinayakkulkarni/v-offline</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4b63f49</div>
-                                        <div class="message">Merge pull request #713 from geoql/dependabot/npm_and_yarn/deck.gl/mapbox-8.7.9
-
-chore(deps-dev): bump @deck.gl/mapbox from 8.7.8 to 8.7.9</div>
+                                        <div class="sha">#7cc3b20</div>
+                                        <div class="message">Merge pull request #951 from vinayakkulkarni/dependabot/npm_and_yarn/types/node-17.0.33</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2b2921b</div>
-                                        <div class="message">chore(deps-dev): bump @deck.gl/mapbox from 8.7.8 to 8.7.9
+                                        <div class="sha">#d148242</div>
+                                        <div class="message">chore(deps-dev): bump @types/node from 17.0.31 to 17.0.33
 
-Bumps [@deck.gl/mapbox](https://github.com/visgl/deck.gl) from 8.7.8 to 8.7.9.
-- [Release notes](https://github.com/visgl/deck.gl/releases)
-- [Changelog](https://github.com/visgl/deck.gl/blob/v8.7.9/CHANGELOG.md)
-- [Commits](https://github.com/visgl/deck.gl/compare/v8.7.8...v8.7.9)
+Bumps [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) from 17.0.31 to 17.0.33.
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
 
 ---
 updated-dependencies:
-- dependency-name: "@deck.gl/mapbox"
+- dependency-name: "@types/node"
   dependency-type: direct:development
   update-type: version-update:semver-patch
 ...
@@ -1302,58 +1289,21 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">geoql/expenses</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6f16aa7</div>
-                                        <div class="message">Merge pull request #712 from geoql/dependabot/npm_and_yarn/deck.gl/layers-8.7.9</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28f46e2</div>
-                                        <div class="message">chore(deps-dev): bump @deck.gl/layers from 8.7.8 to 8.7.9
-
-Bumps [@deck.gl/layers](https://github.com/visgl/deck.gl) from 8.7.8 to 8.7.9.
-- [Release notes](https://github.com/visgl/deck.gl/releases)
-- [Changelog](https://github.com/visgl/deck.gl/blob/v8.7.9/CHANGELOG.md)
-- [Commits](https://github.com/visgl/deck.gl/compare/v8.7.8...v8.7.9)
-
----
-updated-dependencies:
-- dependency-name: "@deck.gl/layers"
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#943 Issue with using Marker in Vue 3</span>
+                                        <span class="issue">#54 fix(sematic-issue): v0.0.4</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by UXandre in <span class="repo">geospoc/v-mapbox</span></div>
+                                    <div>opened by pushkar-geospoc in <span class="repo">geospoc/ani-places-admin-lookup</span></div>
                                     <div class="comment">
-                                        https://codesandbox.io/s/v-mapbox-w-marker-s-om6yys
-I forked this and set up
-                                        <code>v-mapbox</code>
-                                        w/ marker, I'll check the events as well
+                                        don't use
+                                        <code>pre-commit</code>
+                                        , use
+                                        <code>husky</code>
+                                        instead.
                                     </div>
                                 </div>
                             </section>
