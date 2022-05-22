@@ -1152,7 +1152,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 3.52kb of code in 30 edited files across 91 commits over last 3 days</small>
+                <small>estimation from 3.47kb of code in 28 edited files across 95 commits over last 3 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1196,108 +1196,29 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">geoql/expenses</span>
+                                        <span class="repo">vinayakkulkarni/janak</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#383be4c</div>
-                                        <div class="message">Merge pull request #724 from geoql/dependabot/npm_and_yarn/sass-loader-13.0.0
+                                        <div class="sha">#a089522</div>
+                                        <div class="message">Merge pull request #413 from vinayakkulkarni/dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.25.0
 
-chore(deps-dev): bump sass-loader from 12.6.0 to 13.0.0</div>
+chore(deps-dev): bump @typescript-eslint/eslint-plugin from 5.22.0 to 5.25.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c89798b</div>
-                                        <div class="message">chore(deps-dev): bump sass-loader from 12.6.0 to 13.0.0
+                                        <div class="sha">#8cc0ca5</div>
+                                        <div class="message">chore(deps-dev): bump @typescript-eslint/eslint-plugin
 
-Bumps [sass-loader](https://github.com/webpack-contrib/sass-loader) from 12.6.0 to 13.0.0.
-- [Release notes](https://github.com/webpack-contrib/sass-loader/releases)
-- [Changelog](https://github.com/webpack-contrib/sass-loader/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/webpack-contrib/sass-loader/compare/v12.6.0...v13.0.0)
+Bumps [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin) from 5.22.0 to 5.25.0.
+- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
+- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md)
+- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.25.0/packages/eslint-plugin)
 
 ---
 updated-dependencies:
-- dependency-name: sass-loader
-  dependency-type: direct:development
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">geoql/expenses</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#876d0e4</div>
-                                        <div class="message">Merge pull request #725 from geoql/dependabot/npm_and_yarn/deck.gl/layers-8.7.10
-
-chore(deps-dev): bump @deck.gl/layers from 8.7.9 to 8.7.10</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#595d4be</div>
-                                        <div class="message">chore(deps-dev): bump @deck.gl/layers from 8.7.9 to 8.7.10
-
-Bumps [@deck.gl/layers](https://github.com/visgl/deck.gl) from 8.7.9 to 8.7.10.
-- [Release notes](https://github.com/visgl/deck.gl/releases)
-- [Changelog](https://github.com/visgl/deck.gl/blob/v8.7.10/CHANGELOG.md)
-- [Commits](https://github.com/visgl/deck.gl/compare/v8.7.9...v8.7.10)
-
----
-updated-dependencies:
-- dependency-name: "@deck.gl/layers"
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">geoql/expenses</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f7654c5</div>
-                                        <div class="message">Merge pull request #726 from geoql/dependabot/npm_and_yarn/eslint-plugin-jsdoc-39.3.0
-
-chore(deps-dev): bump eslint-plugin-jsdoc from 39.2.9 to 39.3.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#43cb334</div>
-                                        <div class="message">chore(deps-dev): bump eslint-plugin-jsdoc from 39.2.9 to 39.3.0
-
-Bumps [eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc) from 39.2.9 to 39.3.0.
-- [Release notes](https://github.com/gajus/eslint-plugin-jsdoc/releases)
-- [Commits](https://github.com/gajus/eslint-plugin-jsdoc/compare/v39.2.9...v39.3.0)
-
----
-updated-dependencies:
-- dependency-name: eslint-plugin-jsdoc
+- dependency-name: "@typescript-eslint/eslint-plugin"
   dependency-type: direct:development
   update-type: version-update:semver-minor
 ...
@@ -1315,28 +1236,29 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">geoql/expenses</span>
+                                        <span class="repo">vinayakkulkarni/janak</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#85535f6</div>
-                                        <div class="message">Merge pull request #717 from geoql/dependabot/npm_and_yarn/vueuse/nuxt-8.5.0
+                                        <div class="sha">#0569c97</div>
+                                        <div class="message">Merge pull request #405 from vinayakkulkarni/dependabot/npm_and_yarn/eslint-8.15.0
 
-chore(deps-dev): bump @vueuse/nuxt from 8.4.2 to 8.5.0</div>
+chore(deps-dev): bump eslint from 8.14.0 to 8.15.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c4d4671</div>
-                                        <div class="message">chore(deps-dev): bump @vueuse/nuxt from 8.4.2 to 8.5.0
+                                        <div class="sha">#5cf5f51</div>
+                                        <div class="message">chore(deps-dev): bump eslint from 8.14.0 to 8.15.0
 
-Bumps [@vueuse/nuxt](https://github.com/vueuse/vueuse/tree/HEAD/packages/nuxt) from 8.4.2 to 8.5.0.
-- [Release notes](https://github.com/vueuse/vueuse/releases)
-- [Commits](https://github.com/vueuse/vueuse/commits/v8.5.0/packages/nuxt)
+Bumps [eslint](https://github.com/eslint/eslint) from 8.14.0 to 8.15.0.
+- [Release notes](https://github.com/eslint/eslint/releases)
+- [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/eslint/eslint/compare/v8.14.0...v8.15.0)
 
 ---
 updated-dependencies:
-- dependency-name: "@vueuse/nuxt"
+- dependency-name: eslint
   dependency-type: direct:development
   update-type: version-update:semver-minor
 ...
@@ -1354,19 +1276,59 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">geoql/expenses</span>
+                                        <span class="repo">vinayakkulkarni/janak</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#864b6f4</div>
-                                        <div class="message">Merge pull request #718 from geoql/dependabot/npm_and_yarn/commitlint/cli-17.0.0
+                                        <div class="sha">#41dc658</div>
+                                        <div class="message">Merge pull request #414 from vinayakkulkarni/dependabot/npm_and_yarn/typescript-eslint/parser-5.25.0
+
+chore(deps-dev): bump @typescript-eslint/parser from 5.22.0 to 5.25.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#928afe0</div>
+                                        <div class="message">chore(deps-dev): bump @typescript-eslint/parser from 5.22.0 to 5.25.0
+
+Bumps [@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser) from 5.22.0 to 5.25.0.
+- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
+- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md)
+- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.25.0/packages/parser)
+
+---
+updated-dependencies:
+- dependency-name: "@typescript-eslint/parser"
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">vinayakkulkarni/janak</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ea9d79f</div>
+                                        <div class="message">Merge pull request #410 from vinayakkulkarni/dependabot/npm_and_yarn/commitlint/cli-17.0.0
 
 chore(deps-dev): bump @commitlint/cli from 16.2.4 to 17.0.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ab85799</div>
+                                        <div class="sha">#30c2a26</div>
                                         <div class="message">chore(deps-dev): bump @commitlint/cli from 16.2.4 to 17.0.0
 
 Bumps [@commitlint/cli](https://github.com/conventional-changelog/commitlint/tree/HEAD/@commitlint/cli) from 16.2.4 to 17.0.0.
@@ -1379,6 +1341,45 @@ updated-dependencies:
 - dependency-name: "@commitlint/cli"
   dependency-type: direct:development
   update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">vinayakkulkarni/janak</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#404bd61</div>
+                                        <div class="message">Merge pull request #415 from vinayakkulkarni/dependabot/npm_and_yarn/eslint-plugin-jsdoc-39.3.0
+
+chore(deps-dev): bump eslint-plugin-jsdoc from 39.2.9 to 39.3.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#696638b</div>
+                                        <div class="message">chore(deps-dev): bump eslint-plugin-jsdoc from 39.2.9 to 39.3.0
+
+Bumps [eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc) from 39.2.9 to 39.3.0.
+- [Release notes](https://github.com/gajus/eslint-plugin-jsdoc/releases)
+- [Commits](https://github.com/gajus/eslint-plugin-jsdoc/compare/v39.2.9...v39.3.0)
+
+---
+updated-dependencies:
+- dependency-name: eslint-plugin-jsdoc
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
