@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1020" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="986" class="">
     <defs>
         <style/>
     </defs>
@@ -1190,35 +1190,11 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/mapbox-gl-interpolate-heatmap</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d802861</div>
-                                        <div class="message">Merge pull request #204 from vinayakkulkarni/dependabot/github_actions/actions/setup-node-3.2.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#94b949f</div>
-                                        <div class="message">fix(deps): bump actions/setup-node from 3.1.1 to 3.2.0
-
-Bumps [actions/setup-node](https://github.com/actions/setup-node) from 3.1.1 to 3.2.0.
-- [Release notes](https://github.com/actions/setup-node/releases)
-- [Commits](https://github.com/actions/setup-node/compare/v3.1.1...v3.2.0)
-
----
-updated-dependencies:
-- dependency-name: actions/setup-node
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        Starred
+                                        <span class="repo">Atinux/content-wind</span>
                                     </div>
                                 </div>
                             </section>
@@ -1237,57 +1213,22 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6665101</div>
-                                        <div class="message">Merge pull request #213 from vinayakkulkarni/dependabot/npm_and_yarn/eslint-plugin-jsdoc-39.3.0</div>
+                                        <div class="sha">#4c45802</div>
+                                        <div class="message">Merge pull request #218 from vinayakkulkarni/dependabot/npm_and_yarn/eslint-plugin-jsdoc-39.3.2
+
+chore(deps-dev): bump eslint-plugin-jsdoc from 39.3.0 to 39.3.2</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8290b38</div>
-                                        <div class="message">chore(deps-dev): bump eslint-plugin-jsdoc from 39.2.9 to 39.3.0
+                                        <div class="sha">#a3238a2</div>
+                                        <div class="message">chore(deps-dev): bump eslint-plugin-jsdoc from 39.3.0 to 39.3.2
 
-Bumps [eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc) from 39.2.9 to 39.3.0.
+Bumps [eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc) from 39.3.0 to 39.3.2.
 - [Release notes](https://github.com/gajus/eslint-plugin-jsdoc/releases)
-- [Commits](https://github.com/gajus/eslint-plugin-jsdoc/compare/v39.2.9...v39.3.0)
+- [Commits](https://github.com/gajus/eslint-plugin-jsdoc/compare/v39.3.0...v39.3.2)
 
 ---
 updated-dependencies:
 - dependency-name: eslint-plugin-jsdoc
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/mapbox-gl-interpolate-heatmap</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6dd810e</div>
-                                        <div class="message">Merge pull request #214 from vinayakkulkarni/dependabot/npm_and_yarn/types/node-17.0.35</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#339aa8f</div>
-                                        <div class="message">chore(deps-dev): bump @types/node from 17.0.33 to 17.0.35
-
-Bumps [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) from 17.0.33 to 17.0.35.
-- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
-- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
-
----
-updated-dependencies:
-- dependency-name: "@types/node"
   dependency-type: direct:development
   update-type: version-update:semver-patch
 ...
@@ -1311,21 +1252,22 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#29d652a</div>
-                                        <div class="message">Merge pull request #217 from vinayakkulkarni/dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.26.0</div>
+                                        <div class="sha">#f8b71ba</div>
+                                        <div class="message">Merge pull request #219 from vinayakkulkarni/dependabot/npm_and_yarn/typescript-4.7.2
+
+chore(deps-dev): bump typescript from 4.6.4 to 4.7.2</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3fb42cf</div>
-                                        <div class="message">chore(deps-dev): bump @typescript-eslint/eslint-plugin
+                                        <div class="sha">#de1a085</div>
+                                        <div class="message">chore(deps-dev): bump typescript from 4.6.4 to 4.7.2
 
-Bumps [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin) from 5.23.0 to 5.26.0.
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.26.0/packages/eslint-plugin)
+Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.6.4 to 4.7.2.
+- [Release notes](https://github.com/Microsoft/TypeScript/releases)
+- [Commits](https://github.com/Microsoft/TypeScript/compare/v4.6.4...v4.7.2)
 
 ---
 updated-dependencies:
-- dependency-name: "@typescript-eslint/eslint-plugin"
+- dependency-name: typescript
   dependency-type: direct:development
   update-type: version-update:semver-minor
 ...
@@ -1342,17 +1284,74 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">vinayakkulkarni/valhalla</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">vinayakkulkarni/mapbox-gl-interpolate-heatmap</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">style/fix-dockerfiles-using-hadolint</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#de91044</div>
-                                        <div class="message">docs: update CHANGELOG
+                                        <div class="sha">#01bc479</div>
+                                        <div class="message">Merge pull request #220 from vinayakkulkarni/dependabot/npm_and_yarn/lint-staged-12.4.2
 
-Signed-off-by: Vinayak Kulkarni &lt;19776877+vinayakkulkarni@users.noreply.github.com&gt;</div>
+chore(deps-dev): bump lint-staged from 12.4.1 to 12.4.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d97acc4</div>
+                                        <div class="message">chore(deps-dev): bump lint-staged from 12.4.1 to 12.4.2
+
+Bumps [lint-staged](https://github.com/okonet/lint-staged) from 12.4.1 to 12.4.2.
+- [Release notes](https://github.com/okonet/lint-staged/releases)
+- [Commits](https://github.com/okonet/lint-staged/compare/v12.4.1...v12.4.2)
+
+---
+updated-dependencies:
+- dependency-name: lint-staged
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">ffmpegwasm/nuxt-app</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#87e7ba4</div>
+                                        <div class="message">Merge pull request #81 from ffmpegwasm/dependabot/npm_and_yarn/stylelint-14.8.4
+
+chore(deps-dev): bump stylelint from 14.8.2 to 14.8.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6dcab41</div>
+                                        <div class="message">chore(deps-dev): bump stylelint from 14.8.2 to 14.8.4
+
+Bumps [stylelint](https://github.com/stylelint/stylelint) from 14.8.2 to 14.8.4.
+- [Release notes](https://github.com/stylelint/stylelint/releases)
+- [Changelog](https://github.com/stylelint/stylelint/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/stylelint/stylelint/compare/14.8.2...14.8.4)
+
+---
+updated-dependencies:
+- dependency-name: stylelint
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
