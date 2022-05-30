@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1074" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1057" class="">
     <defs>
         <style/>
     </defs>
@@ -57,7 +57,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 188 repositories
+                            Contributed to  repositories
                         </div>
                     </section>
                 </div>
@@ -1159,7 +1159,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 2.52kb of code in 16 edited files across 88 commits over last 5 days</small>
+                <small>estimation from 2.52kb of code in 16 edited files across 88 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1195,6 +1195,64 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">vinayakkulkarni/v-clappr</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8309988</div>
+                                        <div class="message">chore(deps-dev): bump rollup from 2.72.1 to 2.75.3 (#775)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">vinayakkulkarni/mapbox-gl-interpolate-heatmap</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d5e1014</div>
+                                        <div class="message">Merge pull request #222 from vinayakkulkarni/dependabot/npm_and_yarn/rollup-2.75.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d8e2ccc</div>
+                                        <div class="message">chore(deps-dev): bump rollup from 2.74.1 to 2.75.3
+
+Bumps [rollup](https://github.com/rollup/rollup) from 2.74.1 to 2.75.3.
+- [Release notes](https://github.com/rollup/rollup/releases)
+- [Changelog](https://github.com/rollup/rollup/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/rollup/rollup/compare/v2.74.1...v2.75.3)
+
+---
+updated-dependencies:
+- dependency-name: rollup
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1301,81 +1359,6 @@ updated-dependencies:
 - dependency-name: "@commitlint/config-conventional"
   dependency-type: direct:development
   update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/v-skeletor</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b1b214f</div>
-                                        <div class="message">Merge pull request #432 from vinayakkulkarni/dependabot/npm_and_yarn/tslib-2.4.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dfeda9f</div>
-                                        <div class="message">chore(deps-dev): bump tslib from 2.3.1 to 2.4.0
-
-Bumps [tslib](https://github.com/Microsoft/tslib) from 2.3.1 to 2.4.0.
-- [Release notes](https://github.com/Microsoft/tslib/releases)
-- [Commits](https://github.com/Microsoft/tslib/compare/2.3.1...2.4.0)
-
----
-updated-dependencies:
-- dependency-name: tslib
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/v-skeletor</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#99b95b0</div>
-                                        <div class="message">Merge pull request #435 from vinayakkulkarni/dependabot/npm_and_yarn/shipjs-0.24.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba683ed</div>
-                                        <div class="message">chore(deps-dev): bump shipjs from 0.24.3 to 0.24.4
-
-Bumps [shipjs](https://github.com/algolia/shipjs) from 0.24.3 to 0.24.4.
-- [Release notes](https://github.com/algolia/shipjs/releases)
-- [Changelog](https://github.com/algolia/shipjs/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/algolia/shipjs/compare/v0.24.3...v0.24.4)
-
----
-updated-dependencies:
-- dependency-name: shipjs
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
