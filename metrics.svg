@@ -35,15 +35,15 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1163,9 +1163,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>No recent push activity found
-                
-                  over last 1 day</small>
+                <small>No recent push activity found</small>
                 <div class="row fill-width">
                     <section>
                     </section>
@@ -1186,31 +1184,47 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/npm_and_yarn/commitlint/cli-17.0.2</span>
+                                        in
+                                        <span class="repo">geospoc/ani-maps-documentation-api</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/v-tweakpane</span>
+                                        <span class="repo">geospoc/ani-maps-documentation-api</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#30f8522</div>
-                                        <div class="message">Merge pull request #487 from vinayakkulkarni/dependabot/npm_and_yarn/postcss-8.4.14</div>
+                                        <div class="sha">#1cdb023</div>
+                                        <div class="message">Merge pull request #47 from geospoc/dependabot/npm_and_yarn/commitlint/cli-17.0.2</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c935539</div>
-                                        <div class="message">chore(deps-dev): bump postcss from 8.4.13 to 8.4.14
+                                        <div class="sha">#3c33b2d</div>
+                                        <div class="message">chore(deps-dev): bump @commitlint/cli from 17.0.1 to 17.0.2
 
-Bumps [postcss](https://github.com/postcss/postcss) from 8.4.13 to 8.4.14.
-- [Release notes](https://github.com/postcss/postcss/releases)
-- [Changelog](https://github.com/postcss/postcss/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/postcss/postcss/compare/8.4.13...8.4.14)
+Bumps [@commitlint/cli](https://github.com/conventional-changelog/commitlint/tree/HEAD/@commitlint/cli) from 17.0.1 to 17.0.2.
+- [Release notes](https://github.com/conventional-changelog/commitlint/releases)
+- [Changelog](https://github.com/conventional-changelog/commitlint/blob/master/@commitlint/cli/CHANGELOG.md)
+- [Commits](https://github.com/conventional-changelog/commitlint/commits/v17.0.2/@commitlint/cli)
 
 ---
 updated-dependencies:
-- dependency-name: postcss
+- dependency-name: "@commitlint/cli"
   dependency-type: direct:development
   update-type: version-update:semver-patch
 ...
@@ -1229,25 +1243,9 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">dependabot/npm_and_yarn/postcss-8.4.14</span>
+                                        <span class="code">dependabot/npm_and_yarn/vueuse/nuxt-8.6.0</span>
                                         in
-                                        <span class="repo">vinayakkulkarni/v-tweakpane</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/npm_and_yarn/typescript-eslint/parser-5.27.0</span>
-                                        in
-                                        <span class="repo">vinayakkulkarni/v-tweakpane</span>
+                                        <span class="repo">geospoc/ani-maps-documentation-frontend</span>
                                     </div>
                                 </div>
                             </section>
@@ -1260,28 +1258,27 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">vinayakkulkarni/v-tweakpane</span>
+                                        <span class="repo">geospoc/ani-maps-documentation-frontend</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c9e06c6</div>
-                                        <div class="message">Merge pull request #513 from vinayakkulkarni/dependabot/npm_and_yarn/typescript-eslint/parser-5.27.0</div>
+                                        <div class="sha">#6559bea</div>
+                                        <div class="message">Merge pull request #50 from geospoc/dependabot/npm_and_yarn/vueuse/nuxt-8.6.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#737282a</div>
-                                        <div class="message">chore(deps-dev): bump @typescript-eslint/parser from 5.25.0 to 5.27.0
+                                        <div class="sha">#9fab13d</div>
+                                        <div class="message">fix(deps): bump @vueuse/nuxt from 8.5.0 to 8.6.0
 
-Bumps [@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser) from 5.25.0 to 5.27.0.
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.27.0/packages/parser)
+Bumps [@vueuse/nuxt](https://github.com/vueuse/vueuse/tree/HEAD/packages/nuxt) from 8.5.0 to 8.6.0.
+- [Release notes](https://github.com/vueuse/vueuse/releases)
+- [Commits](https://github.com/vueuse/vueuse/commits/v8.6.0/packages/nuxt)
 
 ---
 updated-dependencies:
-- dependency-name: "@typescript-eslint/parser"
-  dependency-type: direct:development
+- dependency-name: "@vueuse/nuxt"
+  dependency-type: direct:production
   update-type: version-update:semver-minor
 ...
 
@@ -1299,9 +1296,9 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">dependabot/npm_and_yarn/stylelint-14.8.5</span>
+                                        <span class="code">dependabot/npm_and_yarn/lint-staged-12.5.0</span>
                                         in
-                                        <span class="repo">vinayakkulkarni/v-tweakpane</span>
+                                        <span class="repo">geospoc/ani-maps-documentation-frontend</span>
                                     </div>
                                 </div>
                             </section>
