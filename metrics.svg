@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 189 repositories
+                            Contributed to  repositories
                         </div>
                     </section>
                 </div>
@@ -1163,7 +1163,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 13.2kb of code in 25 edited files across 98 commits over last 4 days</small>
+                <small>estimation from 13.3kb of code in 25 edited files across 96 commits over last 4 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1207,138 +1207,19 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">geospoc/ani-maps-heatmaps-hez-poller-api</span>
+                                        <span class="repo">geoql/expenses</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9ed5227</div>
-                                        <div class="message">Merge pull request #173 from geospoc/dependabot/npm_and_yarn/typescript-eslint/parser-5.27.1
-
-chore(deps-dev): bump @typescript-eslint/parser from 5.27.0 to 5.27.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4a099f</div>
-                                        <div class="message">chore(deps-dev): bump @typescript-eslint/parser from 5.27.0 to 5.27.1
-
-Bumps [@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser) from 5.27.0 to 5.27.1.
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.27.1/packages/parser)
-
----
-updated-dependencies:
-- dependency-name: "@typescript-eslint/parser"
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">geospoc/ani-maps-heatmaps-hez-poller-api</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bcfb05d</div>
-                                        <div class="message">Merge pull request #175 from geospoc/dependabot/npm_and_yarn/sentry/node-7.1.0
-
-chore(deps-dev): bump @sentry/node from 7.0.0 to 7.1.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#26cbf33</div>
-                                        <div class="message">chore(deps-dev): bump @sentry/node from 7.0.0 to 7.1.0
-
-Bumps [@sentry/node](https://github.com/getsentry/sentry-javascript) from 7.0.0 to 7.1.0.
-- [Release notes](https://github.com/getsentry/sentry-javascript/releases)
-- [Changelog](https://github.com/getsentry/sentry-javascript/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/getsentry/sentry-javascript/compare/7.0.0...7.1.0)
-
----
-updated-dependencies:
-- dependency-name: "@sentry/node"
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">geospoc/ani-maps-heatmaps-hez-poller-api</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ae3ba37</div>
-                                        <div class="message">Merge pull request #170 from geospoc/dependabot/npm_and_yarn/typescript-4.7.3
-
-chore(deps-dev): bump typescript from 4.7.2 to 4.7.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9984e47</div>
-                                        <div class="message">chore(deps-dev): bump typescript from 4.7.2 to 4.7.3
-
-Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.7.2 to 4.7.3.
-- [Release notes](https://github.com/Microsoft/TypeScript/releases)
-- [Commits](https://github.com/Microsoft/TypeScript/compare/v4.7.2...v4.7.3)
-
----
-updated-dependencies:
-- dependency-name: typescript
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">geospoc/ani-maps-heatmaps-hez-poller-api</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#301146b</div>
-                                        <div class="message">Merge pull request #171 from geospoc/dependabot/npm_and_yarn/eslint-8.17.0
+                                        <div class="sha">#36ac464</div>
+                                        <div class="message">Merge pull request #755 from geoql/dependabot/npm_and_yarn/eslint-8.17.0
 
 chore(deps-dev): bump eslint from 8.16.0 to 8.17.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#431aec8</div>
+                                        <div class="sha">#507a3f7</div>
                                         <div class="message">chore(deps-dev): bump eslint from 8.16.0 to 8.17.0
 
 Bumps [eslint](https://github.com/eslint/eslint) from 8.16.0 to 8.17.0.
@@ -1366,19 +1247,58 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">geospoc/ani-maps-heatmaps-hez-poller-api</span>
+                                        <span class="repo">geoql/expenses</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#511f54c</div>
-                                        <div class="message">Merge pull request #174 from geospoc/dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.27.1
+                                        <div class="sha">#dc09fcb</div>
+                                        <div class="message">Merge pull request #756 from geoql/dependabot/github_actions/actions/setup-node-3.3.0
+
+fix(deps): bump actions/setup-node from 3.2.0 to 3.3.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b4c47d</div>
+                                        <div class="message">fix(deps): bump actions/setup-node from 3.2.0 to 3.3.0
+
+Bumps [actions/setup-node](https://github.com/actions/setup-node) from 3.2.0 to 3.3.0.
+- [Release notes](https://github.com/actions/setup-node/releases)
+- [Commits](https://github.com/actions/setup-node/compare/v3.2.0...v3.3.0)
+
+---
+updated-dependencies:
+- dependency-name: actions/setup-node
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">geoql/expenses</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bc393f4</div>
+                                        <div class="message">Merge pull request #757 from geoql/dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-5.27.1
 
 chore(deps-dev): bump @typescript-eslint/eslint-plugin from 5.27.0 to 5.27.1</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c49e46f</div>
+                                        <div class="sha">#2d04954</div>
                                         <div class="message">chore(deps-dev): bump @typescript-eslint/eslint-plugin
 
 Bumps [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin) from 5.27.0 to 5.27.1.
@@ -1389,6 +1309,85 @@ Bumps [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/ty
 ---
 updated-dependencies:
 - dependency-name: "@typescript-eslint/eslint-plugin"
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">geoql/expenses</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2a72ffd</div>
+                                        <div class="message">Merge pull request #759 from geoql/dependabot/npm_and_yarn/deck.gl/layers-8.7.11
+
+chore(deps-dev): bump @deck.gl/layers from 8.7.10 to 8.7.11</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#200ebb3</div>
+                                        <div class="message">chore(deps-dev): bump @deck.gl/layers from 8.7.10 to 8.7.11
+
+Bumps [@deck.gl/layers](https://github.com/visgl/deck.gl) from 8.7.10 to 8.7.11.
+- [Release notes](https://github.com/visgl/deck.gl/releases)
+- [Changelog](https://github.com/visgl/deck.gl/blob/v8.7.11/CHANGELOG.md)
+- [Commits](https://github.com/visgl/deck.gl/compare/v8.7.10...v8.7.11)
+
+---
+updated-dependencies:
+- dependency-name: "@deck.gl/layers"
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">geospoc/ais-frontend</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5596d51</div>
+                                        <div class="message">Merge pull request #1483 from geospoc/dependabot/npm_and_yarn/typescript-4.7.3
+
+chore(deps-dev): bump typescript from 4.7.2 to 4.7.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#233a12d</div>
+                                        <div class="message">chore(deps-dev): bump typescript from 4.7.2 to 4.7.3
+
+Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.7.2 to 4.7.3.
+- [Release notes](https://github.com/Microsoft/TypeScript/releases)
+- [Commits](https://github.com/Microsoft/TypeScript/compare/v4.7.2...v4.7.3)
+
+---
+updated-dependencies:
+- dependency-name: typescript
   dependency-type: direct:development
   update-type: version-update:semver-patch
 ...
