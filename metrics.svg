@@ -1351,7 +1351,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 52.9 characters per line of code written</li>
+                        <li>Has approximately 52.7 characters per line of code written</li>
                         <li>Mostly pushes code around 20:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -1456,7 +1456,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="181.88733333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="182.869 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1479,9 +1479,9 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 443 out of 326m repositories</span>
+                                    <span class="gh">ranked 437 out of 327m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 27602 stars</div>
+                                <div class="text">Maintaining a repository with 27697 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -1892,7 +1892,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 295k out of 326m repositories</span>
+                                    <span class="gh">ranked 296k out of 327m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 33 times</div>
                             </div>
