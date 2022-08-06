@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 182 repositories
+                            Contributed to 180 repositories
                         </div>
                     </section>
                 </div>
@@ -1141,14 +1141,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 85.5kb of code in 74 edited files across 195 commits over last 3 days</small>
+                <small>estimation from 90kb of code in 74 edited files across 210 commits over last 3 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="450.83106415423157" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="450.83106415423157" y="0" width="9.168935845768436" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="450.59441340782126" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="450.59441340782126" y="0" width="9.405586592178771" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1160,8 +1160,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>323 lines</div>
-                                <div>98.01%</div>
+                                <div>316 lines</div>
+                                <div>97.96%</div>
                             </small>
                         </div>
                     </section>
@@ -1175,7 +1175,7 @@
                             </div>
                             <small>
                                 <div>5 lines</div>
-                                <div>1.99%</div>
+                                <div>2.04%</div>
                             </small>
                         </div>
                     </section>
@@ -1325,8 +1325,8 @@
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 50.5 characters per line of code written</li>
-                        <li>Mostly pushes code around 19:00</li>
-                        <li>Mostly active on Thursday</li>
+                        <li>Mostly pushes code around 18:00</li>
+                        <li>Mostly active on Saturday</li>
                     </ul>
                 </div>
             </section>
