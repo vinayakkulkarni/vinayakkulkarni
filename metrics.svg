@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1136,14 +1136,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 68.3kb of code in 45 edited files across 101 commits over last 3 days</small>
+                <small>estimation from 69.3kb of code in 46 edited files across 103 commits over last 4 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="393.93853709353374" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="393.93853709353374" y="0" width="66.06146290646625" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="394.5682348605822" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="394.5682348605822" y="0" width="65.43176513941776" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1155,8 +1155,8 @@
                                 Vue
                             </div>
                             <small>
-                                <div>1.22k lines</div>
-                                <div>85.64%</div>
+                                <div>1.23k lines</div>
+                                <div>85.78%</div>
                             </small>
                         </div>
                     </section>
@@ -1170,7 +1170,7 @@
                             </div>
                             <small>
                                 <div>237 lines</div>
-                                <div>14.36%</div>
+                                <div>14.22%</div>
                             </small>
                         </div>
                     </section>
@@ -1320,7 +1320,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 39.4 characters per line of code written</li>
+                        <li>Has approximately 39.6 characters per line of code written</li>
                         <li>Mostly pushes code around 21:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
