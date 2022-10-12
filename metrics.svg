@@ -1163,13 +1163,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 24.8kb of code in 13 edited files across 88 commits over last 2 days</small>
+                <small>estimation from 34.3kb of code in 19 edited files across 88 commits over last 2 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="324.0909090909091" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="324.0909090909091" y="0" width="135.9090909090909" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1181,12 +1182,24 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>45 lines</div>
-                                <div>100%</div>
+                                <div>126 lines</div>
+                                <div>70.45%</div>
                             </small>
                         </div>
                     </section>
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Dockerfile
+                            </div>
+                            <small>
+                                <div>43 lines</div>
+                                <div>29.55%</div>
+                            </small>
+                        </div>
                     </section>
                 </div>
             </section>
@@ -1334,7 +1347,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 51.3 characters per line of code written</li>
+                        <li>Has approximately 50.1 characters per line of code written</li>
                         <li>Mostly pushes code around 18:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
