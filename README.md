@@ -19,7 +19,7 @@
 ---
 
 <div>
-  <img src="./metrics.svg" />  
+  <img src="./github-metrics.svg" />  
 </div>
 
 ---
