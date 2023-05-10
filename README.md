@@ -3,7 +3,7 @@
 
 #### I'm a Frontend developer from India 🇮🇳
 
-- 🏢 I'm currently working at **GeoSpoc**
+- 🏢 I'm currently working at [**DSCVR**](https://dscvr.one)
 - 🌱 I’m currently learning Rust
 - ⚡️ I'm **VuePress** emeritus
 - ⛴ I'm hardcore Vue (Nuxt) / Tailwind guy
