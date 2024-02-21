@@ -18,12 +18,12 @@
 
 ---
 
-<div>
-  <img src="./github-metrics.svg" />  
-</div>
+<img src="./github-metrics.svg" />  
 
 ---
 
-<!-- https://github.com/Gerhut/Gerhut -->
-<!-- pls deploy your own service using the repo above -->
-![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/vinayakkulkarni-github-readme) [![committers.top badge](https://user-badge.committers.top/india_private/vinayakkulkarni.svg)](https://user-badge.committers.top/india_private/vinayakkulkarni)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=vinayak&api_domain=wakapi.geoql.in&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" />
+
+---
+
+[![committers.top badge](https://user-badge.committers.top/india_private/vinayakkulkarni.svg)](https://user-badge.committers.top/india_private/vinayakkulkarni)
