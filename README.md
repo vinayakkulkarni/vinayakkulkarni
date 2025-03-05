@@ -18,7 +18,6 @@
 ---
 
 <img src="./github-metrics.svg" />  
-
 ---
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vinayak&api_domain=wakapi.geoql.in&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Stats&layout=compact" />
