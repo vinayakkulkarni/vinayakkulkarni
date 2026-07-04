@@ -19,6 +19,16 @@
 <img src="./github-metrics.svg" />  
 
 ---
+<div align="center">
+  <a href="https://commit-history.com/vinayakkulkarni">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/vinayakkulkarni?theme=dark" />
+      <img alt="vinayakkulkarni's commit history" src="https://commit-history.com/embed/vinayakkulkarni" />
+    </picture>
+  </a>
+</div>
+
+---
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vinayak&api_domain=wakapi.geoql.in&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi+stats&layout=compact" />
 
 ---
